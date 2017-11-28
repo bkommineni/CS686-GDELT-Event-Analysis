@@ -4,10 +4,10 @@ https://www.cs.usfca.edu/~mmalensek/courses/cs686/projects/project-3.html
 
 # Collaboration plan
 ## Team Members:
-Mathieu Clement
-Anjani Bajaj
-Bhargavi Kommineni
-Surada Lerkpatomsak
+Mathieu Clement,
+Anjani Bajaj,
+Bhargavi Kommineni,
+Surada Lerkpatomsak,
 Neha Bandal
 
 # Dataset 
