@@ -121,3 +121,5 @@ The web archive helped a bit. For instance there was one article published on SF
 Another article explains how surfers found some awesome waves after a hurricane hit in Hawaii. There doesn't seem to be any link to Switzerland. Further more the US "location" in this article is Big Island, New York. This shows that the dataset is not 100 % accurate. => We exclude the possibility that the web archive saved the wrong content for that URL because there is come correlation with the article and other attributes.
 
 ## Compare the news coverage of Donald J. Trump vs Hillary Clinton
+
+## 2015 was the year of [The Dress](https://en.wikipedia.org/wiki/The_dress). Find out how that affected the stability of countries.
