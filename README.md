@@ -23,7 +23,35 @@ To speed up the download process we grabbed ZIP files from the GDELT website.
 ZIP archives, however, are not supported natively by Spark.
 So to load those files but still save space on our hard drives we unzipped them and gzipped them instead, because GZIP is supported natively by Spark.
 
-No preprocessing was necessary as the GDELT dataset is pretty clean
+No preprocessing was necessary as the GDELT dataset is pretty clean.
+
+The GDELT website also provides the header of the CSV file (i.e. the name of the columns separated by tab characters). We converted that to newline-separated values (though not really necessary), and suffixed every column but character-type column with a color and the type it should be parsed at, e.g. IntegerType.
+We then created a StructType with StructFields.
+
+Here is the code:
+
+```python
+from pyspark.sql.types import StructType, StructField, StringType, FloatType, LongType, IntegerType, BooleanType
+
+types = {
+    'Float': lambda: StringType(),
+    'Integer': lambda: StringType(),
+    'Long': lambda: StringType(),
+    'Bool': lambda: StringType()
+}
+
+feats = []
+with open('CSV.header.txt') as header_file:
+    for lineno, line in enumerate(header_file):
+        line = line.strip()
+        if ':' in line:
+            feat_name, type_name = line.split(':')
+            feats.append(StructField(feat_name, types[type_name](), True))
+        else:
+            feats.append(StructField(line, StringType(), True))
+            
+schema = StructType(feats)
+```
 
 # Info about features
 
@@ -49,3 +77,10 @@ And then there are the numeric ones:
   - # articles, # sources, # mentions: one or more
   - Goldstein Scale: expresses whether the event will have a good impact (+10) or a bad impact (-10) to the country in question, with every value inbetween.
   - QuadClass: which of the 4 main classification groups applies (Verbal/Material Cooperation/Conflict)
+
+# Analysis
+
+We played the role of the professor a little bit and imagined a couple of questions:
+
+## What are the most discussed topics implicating both the United States and Switzerland?
+
