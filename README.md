@@ -48,3 +48,4 @@ And then there are the numeric ones:
   - AvgTone, as explained above, which is defined between -100 for an extremely negative event to +100 for an extremely positive event. A small riot will have a slightly low average tone, where as the end of a war would get an extremely positive tone.
   - # articles, # sources, # mentions: one or more
   - Goldstein Scale: expresses whether the event will have a good impact (+10) or a bad impact (-10) to the country in question, with every value inbetween.
+  - QuadClass: which of the 4 main classification groups applies (Verbal/Material Cooperation/Conflict)
