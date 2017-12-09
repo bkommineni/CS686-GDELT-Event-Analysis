@@ -104,3 +104,17 @@ We had to run this job multiple times because we used the wrong code for countri
 
   - number of records to "take"
   - the key used for sorting. In this we use "NumMentions", but because we want reverse ordering we negate the attribute. 
+
+The results:
+
+|# of mentions|Date|Event location|Event description|Source|
+|---|---|---|
+|565|August 14, 2016|Sennwald, Switzerland|Swiss train attack suspect, female victim die of wounds|[https://www.seattletimes.com/nation-world/swiss-police-no-indication-of-terrorism-in-train-attack/](Source)|
+
+Wait, but we asked for 10 results!
+And we got those. Unfortunately the first 9 resolved to a "Page Not Found." It seems that news agencies don't keep stuff online or they changed their website architecture since then.
+In an application where inaccessible sources render records useless, it would be a good idea to periodically check that links do resolve to articles that are still up. **This 10 % rate that we observed is a significant concern.**
+
+The web archive helped a bit. For instance there was one article published on SFGate talking about both the United Nations (a SF founded institution with headquarters in NYC) and a program of UNICEF in Switzerland.
+
+Another article explains how surfers found some awesome waves after a hurricane hit in Hawaii. There doesn't seem to be any link to Switzerland. Further more the US "location" in this article is Big Island, New York. This shows that the dataset is not 100 % accurate. => We exclude the possibility that the web archive saved the wrong content for that URL because there is come correlation with the article and other attributes.
