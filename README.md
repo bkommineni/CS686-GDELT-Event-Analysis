@@ -79,6 +79,8 @@ with open('CSV.header.txt') as header_file:
 schema = StructType(feats)
 ```
 
+We used the GDELT file format specification see below) to annotate the header file with type information.
+
 # Info about features
 
 The [GDELT file format](http://data.gdeltproject.org/documentation/GDELT-Data_Format_Codebook.pdf) (it's really a tab-separated text file) contains records related to events around the world. It uses the [CAMEO](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf) taxonomy to classify the organisms (government and non-government), actors (such as persons, multinational companies, governments), and actions (warn, appeal, decline to comment, accuse, protest, impose,  etc.)
