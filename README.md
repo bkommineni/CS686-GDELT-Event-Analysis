@@ -135,7 +135,19 @@ Piping the output of the command above to `wc -l` would solve the question, but 
 Let's do it with Spark (with the advantage of parallelization):
 
 ```python
+import re
 
+url = 'http://www.politics.co.uk/comment-analysis/2015/01/06/comment-arms-sales-Trump-human-rights-as-uk-enters-bahrain'
+url2 = 'http://www.thetrumpet.com/blabla'
+
+pattern = re.compile('[^a-z]trump[^a-z]')
+
+df\
+    .rdd\
+    .filter(lambda row: row.SOURCEURL and pattern.search(row.SOURCEURL.lower()) is not None)\
+    .count()
 ```
+
+630507
 
 ## 2015 was the year of [The Dress](https://en.wikipedia.org/wiki/The_dress). Find out how that affected the stability of countries.
