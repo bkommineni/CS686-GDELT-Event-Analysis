@@ -36,9 +36,9 @@ from pyspark.sql.types import StructType, StructField, StringType, FloatType, Lo
 
 types = {
     'Float': lambda: FloatType(),
-    'Integer': lambda: IntegerType(),
+    'Integer': lambda: LongType(), # the spec does not distinguish between integer and long, so long it is
     'Long': lambda: LongType(),
-    'Bool': lambda: BooleanType()
+    'Bool': lambda: IntegerType() # like in the NAM dataset, booleans are expressed as numbers (0 and 1)
 }
 
 feats = []
