@@ -142,6 +142,9 @@ url2 = 'http://www.thetrumpet.com/blabla'
 
 pattern = re.compile('[^a-z]trump[^a-z]')
 
+assert pattern.search(url.lower())
+assert not pattern.search(url2.lower())
+
 df\
     .rdd\
     .filter(lambda row: row.SOURCEURL and pattern.search(row.SOURCEURL.lower()) is not None)\
@@ -149,5 +152,9 @@ df\
 ```
 
 630507
+
+We repeat this process for the keyword "hillary", and we get a count of:
+
+123
 
 ## 2015 was the year of [The Dress](https://en.wikipedia.org/wiki/The_dress). Find out how that affected the stability of countries.
