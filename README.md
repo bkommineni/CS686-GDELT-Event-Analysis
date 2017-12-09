@@ -85,7 +85,7 @@ We played the role of the professor a little bit and imagined a couple of questi
 
 ## What are the most discussed topics implicating both the United States and Switzerland?
 
-To answer this question, we simply filtered records by looked at the attributes *Actor1CountryCode* and *Actor2CountryCode*, and then sorted by "number of mentions":
+To answer this question, we simply filtered records by looking at the attributes *Actor1CountryCode* and *Actor2CountryCode*, and then sorted by "number of mentions":
 
 ```python
 def either_country_code(row, country1, country2):
