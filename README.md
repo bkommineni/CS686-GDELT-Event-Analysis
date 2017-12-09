@@ -85,3 +85,22 @@ We played the role of the professor a little bit and imagined a couple of questi
 
 ## What are the most discussed topics implicating both the United States and Switzerland?
 
+To answer this question, we simply filtered records by looked at the attributes *Actor1CountryCode* and *Actor2CountryCode*, and then sorted by "number of mentions":
+
+```python
+def either_country_code(row, country1, country2):
+    return (row.Actor1CountryCode == country1 and row.Actor2CountryCode == country2) or\
+           (row.Actor1CountryCode == country2 and row.Actor2CountryCode == country1)
+
+df\
+    .rdd\
+    .filter(lambda row: either_country_code(row, 'CHE', 'USA'))\
+    .takeOrdered(10, key= lambda row: -row.NumMentions)
+```
+
+We had to run this job multiple times because we used the wrong code for countries. For some strange reasons the GDELT data format uses two character country codes in some cases, and three character country codes (which they define in the CAMEO standard) in others. Defining a new standard for country codes seems a bit weird, but they must have their reasons...
+
+`takeOrdered` takes two arguments:
+
+  - number of records to "take"
+  - the key used for sorting. In this we use "NumMentions", but because we want reverse ordering we negate the attribute. 
