@@ -30,7 +30,7 @@ No preprocessing was otherwise necessary as the GDELT dataset is pretty clean, w
 
 As mentioned below, it seems that most of the source URLs lead to nowhere. If all our queries require the availability of that source, then it would be a good, but initially extremely time-consuming idea, to go through the list and remove all URLs that don't resolve to an actual article.
 
-To do that we need to decide where we actually want to remove those URLs from. We could either use a Spark filter, or change it directly in our data files, like so:
+To do that we need to decide where we actually want to remove those URLs from. We could either use a Spark filter (you can't drop rows from a data frame or an RDD because they are immutable, following a WORM access principle: write once read many), or change it directly in our data files, like so:
 
 ```python
 import gzip
