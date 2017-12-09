@@ -107,9 +107,10 @@ We had to run this job multiple times because we used the wrong code for countri
 
 The results:
 
-|# of mentions|Date|Event location|Event description|Source|
-|---|---|---|
-|565|August 14, 2016|Sennwald, Switzerland|Swiss train attack suspect, female victim die of wounds|[https://www.seattletimes.com/nation-world/swiss-police-no-indication-of-terrorism-in-train-attack/](Source)|
+|Number of mentions|Date|Event location|Event description|Source|
+|---|---|---|---|---|
+|565|August 14, 2016|Sennwald, Switzerland|Swiss train attack suspect, female victim die of wounds|[Source](https://www.seattletimes.com/nation-world/swiss-police-no-indication-of-terrorism-in-train-attack/)|
+
 
 Wait, but we asked for 10 results!
 And we got those. Unfortunately the first 9 resolved to a "Page Not Found." It seems that news agencies don't keep stuff online or they changed their website architecture since then.
