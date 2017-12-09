@@ -34,10 +34,10 @@ Here is the code:
 from pyspark.sql.types import StructType, StructField, StringType, FloatType, LongType, IntegerType, BooleanType
 
 types = {
-    'Float': lambda: StringType(),
-    'Integer': lambda: StringType(),
-    'Long': lambda: StringType(),
-    'Bool': lambda: StringType()
+    'Float': lambda: FloatType(),
+    'Integer': lambda: IntegerType(),
+    'Long': lambda: LongType(),
+    'Bool': lambda: BooleanType()
 }
 
 feats = []
