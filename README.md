@@ -20,7 +20,7 @@ By quantitatively codifying human society’s events, dreams and fears,  we are 
 # Collecting and cleaning the data
 
 To speed up the download process we grabbed ZIP files from the GDELT website.
-There is one for every day of the years 2015 and 2016 which we are interested in.
+There is one for every day of the years **2015 and 2016 which we are interested in.**
 ZIP archives, however, are not supported natively by Spark.
 So to load those files but still save space on our hard drives we unzipped them and gzipped them instead, because GZIP is supported natively by Spark.
 
@@ -121,5 +121,21 @@ The web archive helped a bit. For instance there was one article published on SF
 Another article explains how surfers found some awesome waves after a hurricane hit in Hawaii. There doesn't seem to be any link to Switzerland. Further more the US "location" in this article is Big Island, New York. This shows that the dataset is not 100 % accurate. => We exclude the possibility that the web archive saved the wrong content for that URL because there is come correlation with the article and other attributes.
 
 ## Compare the news coverage of Donald J. Trump vs Hillary Clinton
+
+So the first idea would be to take a look at the data in the terminal:
+
+```bash
+zcat *.gz | awk -F"\t" 'tolower($58) ~ /.*[^a-z]trump[^a-z].*/ { print $0; }'
+```
+
+A prior investigation showed that Trump's name didn't appear as an actor name, so we had to look into the URLs instead. We had to make sure the letters "trump" were not part of a bigger word such as "www.thetrumpet.com".
+
+Piping the output of the command above to `wc -l` would solve the question, but that wouldn't be fun, would it?
+
+Let's do it with Spark (with the advantage of parallelization):
+
+```python
+
+```
 
 ## 2015 was the year of [The Dress](https://en.wikipedia.org/wiki/The_dress). Find out how that affected the stability of countries.
