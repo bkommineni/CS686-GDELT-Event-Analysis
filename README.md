@@ -19,13 +19,38 @@ By quantitatively codifying human society’s events, dreams and fears,  we are 
 
 # Collecting and cleaning the data
 
+## File download and format conversion
 To speed up the download process we grabbed ZIP files from the GDELT website.
 There is one for every day of the years **2015 and 2016 which we are interested in.**
 ZIP archives, however, are not supported natively by Spark.
 So to load those files but still save space on our hard drives we unzipped them and gzipped them instead, because GZIP is supported natively by Spark.
 
-No preprocessing was otherwise necessary as the GDELT dataset is pretty clean.
+## Preprocessing
+No preprocessing was otherwise necessary as the GDELT dataset is pretty clean, with one major exception:
 
+As mentioned below, it seems that most of the source URLs lead to nowhere. If all our queries require the availability of that source, then it would be a good, but initially extremely time-consuming idea, to go through the list and remove all URLs that don't resolve to an actual article.
+
+To do that we need to decide where we actually want to remove those URLs from. We could either use a Spark filter, or change it directly in our data files, like so:
+
+```python
+import gzip
+import requests
+
+SOURCE_URL_COL = 57
+
+with gzip.open('20150101.export.CSV.gz', 'r') as filer:
+    with gzip.open('2015.0101.export.curated.CSV.gz', 'w') as filew:
+        for line in filer:
+            cols = line.split('\t')
+            source_url = cols[SOURCE_URL_COL].rstrip("\r\n")
+            r = requests.get(source_url)
+            if r.status_code != 404:
+                filew.write(line)
+```
+
+It would probably be a good idea to multithread this code to avoid waiting for every page to load before moving on to the next one, although if we want to preserve the original order, we will need a clever file writer.
+
+## Feature names
 The GDELT website also provides the header of the CSV file (i.e. the name of the columns separated by tab characters). We converted that to newline-separated values (though not really necessary), and suffixed every column but character-type column with a color and the type it should be parsed at, e.g. IntegerType.
 We then created a StructType with StructFields.
 
