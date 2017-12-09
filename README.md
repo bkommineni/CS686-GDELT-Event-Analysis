@@ -20,10 +20,11 @@ By quantitatively codifying human society’s events, dreams and fears,  we are 
 # Collecting and cleaning the data
 
 To speed up the download process we grabbed ZIP files from the GDELT website.
+There is one for every day of the years 2015 and 2016 which we are interested in.
 ZIP archives, however, are not supported natively by Spark.
 So to load those files but still save space on our hard drives we unzipped them and gzipped them instead, because GZIP is supported natively by Spark.
 
-No preprocessing was necessary as the GDELT dataset is pretty clean.
+No preprocessing was otherwise necessary as the GDELT dataset is pretty clean.
 
 The GDELT website also provides the header of the CSV file (i.e. the name of the columns separated by tab characters). We converted that to newline-separated values (though not really necessary), and suffixed every column but character-type column with a color and the type it should be parsed at, e.g. IntegerType.
 We then created a StructType with StructFields.
