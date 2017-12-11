@@ -1,0 +1,101 @@
+Country_Codes_String,Actor1Geo_Country_Name,Actor2Geo_Country_Name,EventBaseCode,Event_Base_Code,Type1,Type2,no_of_events,total_number_of_events,sum_events,total_num_mentions,total_num_sources,total_num_articles,total_avg_tone
+GR_PK,Greece,Pakistan,174,173,Expel or deport individuals,,33,25,58,73,25,73,-176.1818609237671
+FJ_NZ,Fiji,New Zealand,174,172,Expel or deport individuals,,10,20,30,84,30,84,-31.531856909394264
+EC_VE,Ecuador,"Venezuela, Bolivarian Republic of",174,173,Expel or deport individuals,,4,15,19,25,15,25,-106.36505794525146
+HR_US,Croatia,United States,174,173,Expel or deport individuals,,5,11,16,111,52,111,-57.920894145965576
+AE_DJ,Djibouti,United Arab Emirates,174,173,Expel or deport individuals,,1,14,15,313,60,313,-7.6777503490448
+GB_NI,United Kingdom,Nicaragua,174,173,Expel or deport individuals,,12,3,15,14,3,14,-4.116523742675781
+CA_UG,Canada,Uganda,174,174,Expel or deport individuals,Expel or deport individuals,5,9,14,53,22,53,-41.65507984161377
+AL_GM,Albania,Gambia,174,173,Expel or deport individuals,,6,8,14,54,16,54,-79.31884384155273
+JO_MX,Mexico,Jordan,174,173,Expel or deport individuals,,3,10,13,220,146,220,-32.99244689941406
+KR_NZ,"Korea, Republic of",New Zealand,174,174,Expel or deport individuals,Expel or deport individuals,4,8,12,30,8,30,-19.08780086040497
+CF_SG,Singapore,Central African Republic,174,173,Expel or deport individuals,,3,9,12,58,20,58,-55.30038797855377
+BE_NI,Belgium,Nicaragua,174,172,Expel or deport individuals,,11,1,12,8,1,8,1.7758046388626099
+AS_EC,Ecuador,American Samoa,174,173,Expel or deport individuals,,8,3,11,4,4,4,-21.201420783996582
+FR_MN,France,Mongolia,174,173,Expel or deport individuals,,7,4,11,10,5,10,-16.40552520751953
+ET_NO,Ethiopia,Norway,174,173,Expel or deport individuals,,5,6,11,23,6,23,-23.00792360305786
+RW_ZA,South Africa,Rwanda,174,174,Expel or deport individuals,Expel or deport individuals,6,4,10,8,5,8,-26.742040634155273
+BL_PM,Saint Barth̩lemy,Saint Pierre and Miquelon,174,173,Expel or deport individuals,,4,6,10,17,9,17,-26.42270040512085
+IS_UG,Iceland,Uganda,174,173,Expel or deport individuals,,5,5,10,23,7,23,-23.189455568790436
+AR_SZ,Swaziland,Argentina,174,173,Expel or deport individuals,,2,7,9,17,7,17,-9.916986107826233
+MO_MR,Macao,Mauritania,174,173,Expel or deport individuals,,4,5,9,19,5,19,-30.009324550628662
+IR_SN,Senegal,"Iran, Islamic Republic of",174,174,Expel or deport individuals,Expel or deport individuals,4,4,8,26,4,26,-14.249709129333496
+GR_MD,Greece,"Moldova, Republic of",174,174,Expel or deport individuals,Expel or deport individuals,6,2,8,3,2,3,-11.44521951675415
+FR_PM,France,Saint Pierre and Miquelon,174,173,Expel or deport individuals,,4,4,8,8,4,8,-28.173673629760742
+FJ_TN,Tunisia,Fiji,174,173,Expel or deport individuals,,2,6,8,8,6,8,-18.0088951587677
+AG_CY,Antigua and Barbuda,Cyprus,174,173,Expel or deport individuals,,1,7,8,65,14,65,-29.406664431095123
+JO_SZ,Jordan,Swaziland,174,174,Expel or deport individuals,Expel or deport individuals,3,4,7,171,48,171,-33.00606155395508
+EG_GH,Egypt,Ghana,174,173,Expel or deport individuals,,1,6,7,29,6,29,-12.845124959945679
+IR_UY,Uruguay,"Iran, Islamic Republic of",174,173,Expel or deport individuals,,5,1,6,1,1,1,-4.089219093322754
+NO_RO,Romania,Norway,174,173,Expel or deport individuals,,2,4,6,29,4,29,1.3773445263504982
+GM_MV,Gambia,Maldives,174,171,Expel or deport individuals,,3,2,5,2,2,2,0.31446540355682373
+GG_GR,Greece,Guernsey,174,173,Expel or deport individuals,,2,3,5,16,3,16,-19.036319732666016
+ER_UG,Uganda,Eritrea,174,173,Expel or deport individuals,,1,4,5,18,4,18,13.02232551574707
+MD_NO,"Moldova, Republic of",Norway,174,173,Expel or deport individuals,,2,3,5,11,3,11,-18.585981845855713
+GM_PA,Panama,Gambia,174,172,Expel or deport individuals,,2,3,5,17,6,17,-9.23757529258728
+KR_SY,Syrian Arab Republic,"Korea, Republic of",174,174,Expel or deport individuals,Expel or deport individuals,2,2,4,4,2,4,-10.19236135482788
+PS_US,"Palestine, State of",United States,174,173,Expel or deport individuals,,2,2,4,24,4,24,0.15953314304351807
+FJ_NR,Fiji,Nauru,174,172,Expel or deport individuals,,3,1,4,4,1,4,-3.654484987258911
+KE_VE,Kenya,"Venezuela, Bolivarian Republic of",174,172,Expel or deport individuals,,3,1,4,8,1,8,2.644230842590332
+AO_NO,Norway,Angola,174,172,Expel or deport individuals,,2,2,4,12,2,12,-16.31802463531494
+TN_WS,Tunisia,Samoa,174,171,Expel or deport individuals,,2,1,3,2,1,2,-3.187251091003418
+BE_NU,Belgium,Niue,174,174,Expel or deport individuals,Expel or deport individuals,1,2,3,50,12,50,-0.5910511612892151
+AE_TZ,"Tanzania, United Republic of",United Arab Emirates,174,173,Expel or deport individuals,,1,2,3,6,2,6,-7.453416347503662
+KN_QA,Qatar,Saint Kitts and Nevis,174,173,Expel or deport individuals,,2,1,3,34,1,34,-1.935584545135498
+MT_NL,Netherlands,Malta,174,173,Expel or deport individuals,,1,2,3,7,2,7,-0.9985942840576172
+BF_EC,Burkina Faso,Ecuador,174,173,Expel or deport individuals,,2,1,3,3,1,3,-7.301587104797363
+KN_SO,Somalia,Saint Kitts and Nevis,174,173,Expel or deport individuals,,1,2,3,12,2,12,-14.490674018859863
+GI_PL,Poland,Gibraltar,174,173,Expel or deport individuals,,1,2,3,4,2,4,-20.449865341186523
+IT_KG,Kyrgyzstan,Italy,174,173,Expel or deport individuals,,1,2,3,2,2,2,-20.183486938476562
+KZ_PL,Kazakhstan,Poland,174,173,Expel or deport individuals,,2,1,3,10,1,10,0.8032128810882568
+AM_KZ,Armenia,Kazakhstan,174,172,Expel or deport individuals,,1,2,3,6,2,6,-6.727881669998169
+IR_PM,Saint Pierre and Miquelon,"Iran, Islamic Republic of",174,174,Expel or deport individuals,Expel or deport individuals,1,1,2,1,1,1,-4.815229415893555
+GH_MO,Ghana,Macao,174,174,Expel or deport individuals,Expel or deport individuals,1,1,2,2,2,2,0.996688723564148
+ET_ID,Indonesia,Ethiopia,174,170,Expel or deport individuals,,1,1,2,1,1,1,-12.213740348815918
+QA_VE,"Venezuela, Bolivarian Republic of",Qatar,174,173,Expel or deport individuals,,1,1,2,1,1,1,-3.324808120727539
+MT_RO,Romania,Malta,174,173,Expel or deport individuals,,1,1,2,2,1,2,-5.769230842590332
+FJ_RS,Serbia,Fiji,174,173,Expel or deport individuals,,1,1,2,1,1,1,2.5316455364227295
+JM_TK,Jamaica,Tokelau,174,173,Expel or deport individuals,,1,1,2,2,1,2,-0.948866605758667
+EC_TD,Chad,Ecuador,174,173,Expel or deport individuals,,1,1,2,2,1,2,1.257861614227295
+GG_GM,Gambia,Guernsey,174,173,Expel or deport individuals,,1,1,2,4,2,4,-2.2517874240875244
+ID_NR,Nauru,Indonesia,174,173,Expel or deport individuals,,1,1,2,16,2,16,-5.329983711242676
+IT_JE,Italy,Jersey,174,173,Expel or deport individuals,,1,1,2,1,1,1,-4.492753505706787
+LU_PL,Luxembourg,Poland,174,173,Expel or deport individuals,,1,1,2,8,1,8,-3.3631107807159424
+BE_CM,Cameroon,Belgium,174,172,Expel or deport individuals,,1,1,2,1,1,1,-6.2283735275268555
+NI_UZ,Uzbekistan,Nicaragua,174,172,Expel or deport individuals,,1,1,2,2,1,2,0.8119080066680908
+ER_NI,Nicaragua,Eritrea,174,172,Expel or deport individuals,,1,1,2,4,1,4,-5.808257579803467
+GR_RE,R̩union,Greece,174,,Expel or deport individuals,,1,,,,,,
+EG_ES,Spain,Egypt,174,,Expel or deport individuals,,1,,,,,,
+BE_NG,Nigeria,Belgium,174,,Expel or deport individuals,,2,,,,,,
+BR_MH,Marshall Islands,Brazil,174,,Expel or deport individuals,,2,,,,,,
+AS_KR,"Korea, Republic of",American Samoa,174,,Expel or deport individuals,,2,,,,,,
+GH_UZ,Uzbekistan,Ghana,174,,Expel or deport individuals,,6,,,,,,
+IS_TO,Iceland,Tonga,174,,Expel or deport individuals,,1,,,,,,
+CU_ID,Cuba,Indonesia,174,,Expel or deport individuals,,1,,,,,,
+AL_HR,Albania,Croatia,174,,Expel or deport individuals,,1,,,,,,
+GT_IN,India,Guatemala,174,,Expel or deport individuals,,1,,,,,,
+LA_SZ,Lao People's Democratic Republic,Swaziland,174,,Expel or deport individuals,,3,,,,,,
+MT_TH,Thailand,Malta,174,,Expel or deport individuals,,1,,,,,,
+MO_RW,Rwanda,Macao,174,,Expel or deport individuals,,1,,,,,,
+DJ_NO,Norway,Djibouti,174,,Expel or deport individuals,,1,,,,,,
+CY_SE,Cyprus,Sweden,174,,Expel or deport individuals,,1,,,,,,
+GY_MH,Guyana,Marshall Islands,174,,Expel or deport individuals,,1,,,,,,
+NZ_TT,Trinidad and Tobago,New Zealand,174,,Expel or deport individuals,,3,,,,,,
+AO_IR,"Iran, Islamic Republic of",Angola,174,,Expel or deport individuals,,1,,,,,,
+CD_MR,"Congo, the Democratic Republic of the",Mauritania,174,,Expel or deport individuals,,1,,,,,,
+FR_NR,France,Nauru,174,,Expel or deport individuals,,1,,,,,,
+AG_NL,Netherlands,Antigua and Barbuda,174,,Expel or deport individuals,,1,,,,,,
+NP_SN,Nepal,Senegal,174,,Expel or deport individuals,,2,,,,,,
+ID_PM,Saint Pierre and Miquelon,Indonesia,174,,Expel or deport individuals,,1,,,,,,
+KZ_SZ,Kazakhstan,Swaziland,174,,Expel or deport individuals,,1,,,,,,
+AU_MY,Malaysia,Australia,174,,Expel or deport individuals,,1,,,,,,
+BG_GY,Guyana,Bulgaria,174,,Expel or deport individuals,,1,,,,,,
+IT_TD,Italy,Chad,174,,Expel or deport individuals,,1,,,,,,
+IO_MP,British Indian Ocean Territory,Northern Mariana Islands,174,,Expel or deport individuals,,2,,,,,,
+IS_ZA,South Africa,Iceland,174,,Expel or deport individuals,,1,,,,,,
+CY_NO,Norway,Cyprus,174,,Expel or deport individuals,,2,,,,,,
+GT_NU,Guatemala,Niue,174,,Expel or deport individuals,,1,,,,,,
+AU_VE,"Venezuela, Bolivarian Republic of",Australia,174,,Expel or deport individuals,,1,,,,,,
+MC_MX,Mexico,Monaco,174,,Expel or deport individuals,,1,,,,,,
+GH_SA,Saudi Arabia,Ghana,174,,Expel or deport individuals,,2,,,,,,
+KR_TT,Trinidad and Tobago,"Korea, Republic of",174,,Expel or deport individuals,,1,,,,,,

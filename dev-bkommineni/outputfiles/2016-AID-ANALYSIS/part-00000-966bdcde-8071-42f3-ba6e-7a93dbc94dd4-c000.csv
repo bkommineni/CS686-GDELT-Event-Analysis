@@ -1,0 +1,101 @@
+Country_Codes_String,Actor1Geo_Country_Name,Actor2Geo_Country_Name,Type1,Type2,no_of_events,total_number_of_events,sum_events,total_num_mentions,total_num_sources,total_num_articles,total_avg_tone
+IS_US,Iceland,United States,Provide Economic Aid,Provide Economic Aid,837,1096,1933,6828,1796,6707,-2006.6847137063742
+RS_SY,Serbia,Syrian Arab Republic,Provide Military Aid,Provide Military Aid,1289,565,1854,4116,1330,4101,-1998.9587164074183
+SY_US,Syrian Arab Republic,United States,Provide Aid,Grant Asylum,446,1116,1562,13700,4377,13592,-4428.380620822194
+CH_US,Switzerland,United States,Provide Aid,Provide Economic Aid,678,730,1408,3341,1018,3323,-445.7677598330192
+CA_US,United States,Canada,Provide Economic Aid,Provide Economic Aid,752,606,1358,3747,964,3706,126.16989922523499
+RS_US,United States,Serbia,Provide Economic Aid,Provide Aid,617,681,1298,8564,4263,8493,-1596.7482585720718
+MX_US,Mexico,United States,Provide Aid,Provide Economic Aid,541,545,1086,3845,1030,3840,-641.3293256610632
+GR_IT,Greece,Italy,Provide humanitarian aid,Provide humanitarian aid,616,462,1078,7832,1195,7809,-2522.0592865645885
+IR_SY,Syrian Arab Republic,"Iran, Islamic Republic of",Provide Military Aid,Provide Military Aid,307,741,1048,7203,1842,7184,-2827.7044170722365
+IR_US,United States,"Iran, Islamic Republic of",Provide Economic Aid,Provide Economic Aid,547,458,1005,3649,1139,3622,-1274.0660206787288
+SA_US,Saudi Arabia,United States,Provide Economic Aid,Provide Economic Aid,439,508,947,2872,868,2868,-1416.070335291326
+SA_SY,Syrian Arab Republic,Saudi Arabia,Provide Military Aid,Provide Military Aid,210,702,912,6763,1648,6685,-2453.4208546876907
+CA_SY,Canada,Syrian Arab Republic,Provide humanitarian aid,Provide humanitarian aid,702,166,868,1183,373,1163,-338.178668782115
+IT_LY,Italy,Libya,Provide humanitarian aid,Provide humanitarian aid,509,293,802,4127,700,3459,-1007.5591298639774
+AF_US,Afghanistan,United States,Provide Military Aid,Provide Military Aid,335,453,788,4882,1106,4880,-1153.8369666934013
+FR_US,United States,France,Provide Aid,Provide Aid,357,390,747,6067,1427,6067,-467.136812530458
+AF_PK,Pakistan,Afghanistan,Provide humanitarian aid,Provide humanitarian aid,353,329,682,4042,828,3961,-989.852293305099
+AS_US,American Samoa,United States,Provide Economic Aid,Provide Economic Aid,311,312,623,1803,446,1797,-120.92537370696664
+GM_US,United States,Gambia,Provide Aid,Provide Economic Aid,285,335,620,2719,782,2692,-264.7524217478931
+GR_SY,Syrian Arab Republic,Greece,Provide humanitarian aid,Provide humanitarian aid,214,350,564,5273,1042,5017,-1685.7454004138708
+CU_US,Cuba,United States,Provide Aid,Provide Aid,244,298,542,4354,1278,4330,-398.85643101483583
+IN_PK,India,Pakistan,Provide Economic Aid,Provide Economic Aid,307,209,516,1070,265,1065,-706.3976846337318
+QA_SA,Saudi Arabia,Qatar,Provide Economic Aid,Provide Economic Aid,329,157,486,703,196,693,-315.38500633463264
+IR_IS,Iceland,"Iran, Islamic Republic of",Provide Economic Aid,Provide Economic Aid,189,285,474,1389,365,1374,-823.1444548070431
+IR_SA,Saudi Arabia,"Iran, Islamic Republic of",Provide Economic Aid,Provide Economic Aid,219,252,471,2326,761,2321,-996.5419928729534
+AS_CH,Switzerland,American Samoa,Provide Economic Aid,Provide Economic Aid,231,223,454,2836,721,2825,-67.57989162532613
+EG_SA,Saudi Arabia,Egypt,Provide Economic Aid,Provide Economic Aid,221,219,440,2142,432,2098,-112.3581673130393
+IN_US,India,United States,Provide Economic Aid,Provide Economic Aid,222,217,439,1089,305,1078,2.3802494211122394
+CH_PK,Pakistan,Switzerland,Provide Economic Aid,Provide Economic Aid,166,265,431,1855,397,1839,-66.3413150953129
+GM_SY,Syrian Arab Republic,Gambia,Grant Asylum,Grant Asylum,184,236,420,6701,1276,6701,-1157.3410026282072
+KE_SO,Somalia,Kenya,Provide Military Aid,Provide Military Aid,116,300,416,13188,1791,13121,-1973.7140597999096
+PK_US,Pakistan,United States,Provide Economic Aid,Provide Economic Aid,154,244,398,1916,392,1876,-180.33833894878626
+IT_US,Italy,United States,Provide Aid,Provide Aid,191,196,387,3728,730,3724,-122.37961316853762
+MY_SA,Saudi Arabia,Malaysia,Provide Economic Aid,Provide Aid,118,253,371,4529,791,4482,-904.0313024520874
+PK_SA,Saudi Arabia,Pakistan,Provide Economic Aid,Provide Economic Aid,193,175,368,1041,324,1026,-679.1164646744728
+CM_NI,Nicaragua,Cameroon,Provide humanitarian aid,Provide humanitarian aid,155,212,367,1465,372,1459,-671.8529675751925
+ET_SO,Ethiopia,Somalia,Provide Military Aid,Grant Asylum,43,322,365,8983,322,8983,-1008.2385251522064
+MY_SZ,Malaysia,Swaziland,Provide Economic Aid,Provide Economic Aid,119,246,365,2891,498,2855,-1137.0851371884346
+EG_US,Egypt,United States,Provide Aid,Provide Aid,174,176,350,2534,1085,2529,-358.9495272040367
+CH_RS,Switzerland,Serbia,Provide Economic Aid,Provide Economic Aid,173,162,335,1279,197,1279,-109.36861918121576
+QA_US,Qatar,United States,Provide Economic Aid,Provide Economic Aid,204,129,333,531,159,528,-188.07943308353424
+AF_IR,Afghanistan,"Iran, Islamic Republic of",Provide Aid,Provide Aid,239,93,332,706,187,706,-181.1099329739809
+MY_SN,Senegal,Malaysia,Provide Economic Aid,Provide Economic Aid,206,124,330,773,209,758,-279.1550583690405
+JO_SY,Syrian Arab Republic,Jordan,Provide Aid,Grant Asylum,137,192,329,1547,626,1542,-627.0365932136774
+FR_GM,Gambia,France,Provide Aid,Provide Aid,166,156,322,1302,535,1294,-156.08234334737062
+NI_US,Nicaragua,United States,Provide Economic Aid,Provide Aid,134,178,312,1152,265,1114,-143.73488020151854
+MY_US,United States,Malaysia,Provide Economic Aid,Provide Economic Aid,185,119,304,500,138,476,-263.5414345562458
+IR_RS,Serbia,"Iran, Islamic Republic of",Provide Military Aid,Provide Military Aid,176,122,298,608,159,608,-424.1030710823834
+BR_US,Brazil,United States,Provide Economic Aid,Provide Economic Aid,161,134,295,1216,268,1216,-194.93663369864225
+CH_NI,Switzerland,Nicaragua,Provide Economic Aid,Provide Economic Aid,138,155,293,972,226,946,-64.9193923920393
+FR_IS,France,Iceland,Provide Economic Aid,Grant Asylum,93,193,286,1466,370,1450,-365.6097174733877
+CH_TW,Switzerland,"Taiwan, Province of China",Provide Aid,Provide Aid,152,131,283,1921,474,1921,-105.95496974512935
+IT_SY,Syrian Arab Republic,Italy,Provide humanitarian aid,Provide humanitarian aid,97,163,260,1644,477,1620,-567.808264195919
+CH_KE,Kenya,Switzerland,Provide Economic Aid,Provide Economic Aid,94,163,257,1427,218,1230,244.08626041561365
+JE_US,Jersey,United States,Provide Economic Aid,Provide Economic Aid,108,147,255,455,150,448,-221.15255215764046
+AS_NZ,New Zealand,American Samoa,Provide Economic Aid,Provide Aid,115,138,253,1712,291,1705,35.94355034828186
+CH_MY,Malaysia,Switzerland,Provide Economic Aid,Provide Economic Aid,126,125,251,966,173,962,-29.673317089676857
+CH_IN,Switzerland,India,Provide Economic Aid,Provide Economic Aid,130,118,248,496,138,487,8.004166811704636
+FR_RS,Serbia,France,Provide Economic Aid,Provide Economic Aid,148,98,246,560,176,555,-287.0107704102993
+GR_US,United States,Greece,Provide Economic Aid,Provide Economic Aid,102,135,237,553,178,553,-1.8686726689338684
+CY_IT,Italy,Cyprus,Provide Aid,Provide humanitarian aid,11,222,233,2654,710,2596,-1402.987378358841
+SZ_US,United States,Swaziland,Provide Economic Aid,Provide Economic Aid,110,121,231,564,164,564,-33.40717452764511
+IS_UG,Iceland,Uganda,Provide humanitarian aid,Provide humanitarian aid,122,102,224,1670,479,1666,-192.57225600630045
+IS_SY,Iceland,Syrian Arab Republic,Provide Aid,Provide Economic Aid,147,74,221,237,78,237,-291.0884526371956
+BG_US,Bulgaria,United States,Provide Economic Aid,Provide Economic Aid,100,115,215,2006,265,1904,-365.28434458374977
+NL_US,Netherlands,United States,Provide Economic Aid,Provide Economic Aid,117,96,213,369,120,367,-20.022794276475906
+CA_CH,Canada,Switzerland,Provide Economic Aid,Provide Economic Aid,94,118,212,546,176,536,-10.971618041396141
+AS_SY,American Samoa,Syrian Arab Republic,Grant Asylum,Provide humanitarian aid,122,84,206,2185,413,2174,-299.79787597060204
+CH_SN,Switzerland,Senegal,Provide Economic Aid,Provide Economic Aid,109,96,205,1006,130,1006,33.976089656353
+SY_SZ,Swaziland,Syrian Arab Republic,Provide Aid,Provide Aid,117,87,204,1943,776,1943,-377.84629398584366
+CH_HK,Hong Kong,Switzerland,Provide Economic Aid,Provide Economic Aid,104,98,202,531,147,531,4.806595668196678
+AS_CA,American Samoa,Canada,Provide Economic Aid,Provide Economic Aid,100,101,201,957,420,957,54.83385467529297
+GM_IT,Italy,Gambia,Provide humanitarian aid,Provide Aid,106,94,200,736,347,735,-119.35265149176121
+CD_US,"Congo, the Democratic Republic of the",United States,Provide Aid,Provide Aid,132,62,194,2724,986,2712,-87.68953597359359
+KN_US,Saint Kitts and Nevis,United States,Provide Aid,Provide Aid,100,93,193,656,352,648,-260.4040164798498
+GM_GR,Gambia,Greece,Provide humanitarian aid,Provide humanitarian aid,84,108,192,666,162,666,-502.0862766057253
+PL_RS,Poland,Serbia,Provide Military Aid,Provide Military Aid,69,123,192,1371,360,1371,-177.47003582865
+CA_IS,Iceland,Canada,Provide Economic Aid,Provide Economic Aid,65,126,191,1038,187,1016,-198.17564921081066
+AS_IS,American Samoa,Iceland,Provide Economic Aid,Provide Economic Aid,109,81,190,345,103,321,-168.6087860018015
+RS_SA,Saudi Arabia,Serbia,Provide Economic Aid,Provide Economic Aid,73,108,181,522,129,522,-299.2488082498312
+AM_RS,Serbia,Armenia,Provide Military Aid,Provide Aid,96,85,181,2103,474,2094,-166.71235114336014
+QA_SY,Qatar,Syrian Arab Republic,Provide Economic Aid,Provide Economic Aid,78,101,179,903,152,903,-536.9699784517288
+FR_SY,France,Syrian Arab Republic,Provide Aid,Provide Aid,113,64,177,1367,327,1367,-267.20331017673016
+IS_SA,Iceland,Saudi Arabia,Provide Economic Aid,Provide Economic Aid,56,119,175,504,221,504,-305.2631191238761
+GM_RS,Gambia,Serbia,Provide Military Aid,Provide Aid,75,96,171,1123,570,1120,-251.09765382111073
+BG_IN,Bulgaria,India,Provide Economic Aid,Provide Economic Aid,87,83,170,939,175,931,-135.99794337991625
+LY_US,Libya,United States,Provide Aid,Provide Military Aid,76,89,165,791,250,791,-252.46837767586112
+AE_SA,United Arab Emirates,Saudi Arabia,Provide Economic Aid,Provide Economic Aid,65,99,164,759,337,753,-102.62784098088741
+CH_IS,Switzerland,Iceland,Provide Economic Aid,Provide Economic Aid,73,91,164,428,129,423,157.62058898806572
+BE_FR,France,Belgium,Provide Aid,Provide Aid,73,89,162,1581,803,1570,-384.49795523285866
+CO_US,Colombia,United States,Provide Aid,Provide Aid,77,85,162,1916,605,1906,-155.76783430203795
+JO_US,Jordan,United States,Provide Aid,Provide Aid,85,76,161,399,152,382,-18.6101333796978
+BE_US,United States,Belgium,Provide Aid,Provide Aid,61,97,158,2352,565,2352,-231.36913785338402
+IT_SZ,Italy,Swaziland,Provide humanitarian aid,Provide humanitarian aid,113,44,157,149,49,149,-164.79396271705627
+CH_KN,Switzerland,Saint Kitts and Nevis,Provide Aid,Provide Aid,107,50,157,598,185,589,-142.65324686467648
+IS_RS,Serbia,Iceland,Provide Military Aid,Grant Asylum,66,90,156,716,126,711,-113.83008566498756
+AE_US,United Arab Emirates,United States,Provide Economic Aid,Provide Economic Aid,79,75,154,506,151,506,28.95291231572628
+EG_IS,Iceland,Egypt,Provide Aid,Provide Aid,54,100,154,749,206,749,-128.1017501950264
+KE_US,United States,Kenya,Provide Economic Aid,Provide Economic Aid,86,67,153,354,123,354,-39.41878381371498
+SN_US,Senegal,United States,Provide Economic Aid,Provide Economic Aid,84,68,152,360,102,350,-12.316634476184845

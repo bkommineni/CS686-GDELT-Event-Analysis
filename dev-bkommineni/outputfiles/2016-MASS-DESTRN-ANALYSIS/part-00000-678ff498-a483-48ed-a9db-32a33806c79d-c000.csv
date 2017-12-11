@@ -1,0 +1,101 @@
+Country_Codes_String,Actor1Geo_Country_Name,Actor2Geo_Country_Name,EventBaseCode,Event_Base_Code,Type1,Type2,no_of_events,total_number_of_events,sum_events,total_goldsteinscale,total_num_mentions,total_num_sources,total_num_articles,total_avg_tone
+SY_TU,Syria,Turkey,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,44,126,170,-1260.0,1428,295,1398,-548.0840504169464
+IS_US,Israel,United States,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,45,73,118,-730.0,166,81,166,-164.5812010988593
+AJ_AM,Armenia,Azerbaijan,203,202,Engage in ethnic cleansing,Engage in mass killings,214,70,284,-700.0,368,84,353,-342.72479474544525
+RS_SY,Russia,Syria,202,202,Engage in mass killings,Engage in mass killings,52,68,120,-680.0,584,153,584,-381.24453872442245
+IS_LE,Israel,Lebanon,203,202,Engage in ethnic cleansing,Engage in mass killings,23,51,74,-510.0,320,84,320,-246.0272849202156
+AF_PK,Pakistan,Afghanistan,202,202,Engage in mass killings,Engage in mass killings,38,47,85,-470.0,332,66,332,-329.9465215206146
+SA_YM,Saudi Arabia,Yemen,202,202,Engage in mass killings,Engage in mass killings,28,46,74,-460.0,321,52,321,-316.3400249481201
+BE_FR,France,Belgium,202,202,Engage in mass killings,Engage in mass killings,58,45,103,-450.0,282,86,282,-355.57870602607727
+FR_US,United States,France,202,202,Engage in mass killings,Engage in mass killings,37,44,81,-440.0,228,51,228,-246.79729095101357
+PL_RS,Poland,Russia,202,202,Engage in mass killings,Engage in mass killings,11,39,50,-390.0,915,395,903,-152.65353763103485
+IS_WE,Israel,West Bank,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,114,37,151,-370.0,121,44,120,-109.71201851218939
+IZ_SY,Iraq,Syria,202,203,Engage in mass killings,Engage in ethnic cleansing,41,33,74,-330.0,163,37,163,-119.73192609846592
+IS_UK,Israel,United Kingdom,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,14,33,47,-330.0,121,35,116,-145.48810076713562
+AF_US,Afghanistan,United States,202,202,Engage in mass killings,Engage in mass killings,12,31,43,-310.0,621,191,621,-232.75197744369507
+IZ_US,United States,Iraq,202,202,Engage in mass killings,Engage in mass killings,19,25,44,-250.0,64,26,63,-116.02404618263245
+IR_IZ,Iraq,Iran,202,203,Engage in mass killings,Engage in ethnic cleansing,16,25,41,-250.0,103,25,103,-90.09669727087021
+GM_NO,Germany,Norway,202,202,Engage in mass killings,Engage in mass killings,3,23,26,-230.0,321,180,321,-183.65351486206055
+IR_MY,Malaysia,Iran,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,4,22,26,-220.0,466,26,466,-105.13849890232086
+SY_US,Syria,United States,202,202,Engage in mass killings,Engage in mass killings,22,21,43,-210.0,289,88,289,-153.5726339817047
+AM_TU,Turkey,Armenia,202,202,Engage in mass killings,Engage in mass killings,57,19,76,-190.0,35,19,35,-101.70391321182251
+UK_US,United Kingdom,United States,202,202,Engage in mass killings,Engage in mass killings,10,19,29,-190.0,184,26,184,-102.27783013880253
+RS_UP,Russia,Ukraine,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,11,18,29,-180.0,75,19,75,-44.974145859479904
+KS_VM,Vietnam,"Korea, South",202,202,Engage in mass killings,Engage in mass killings,8,18,26,-180.0,52,18,52,-58.51840052008629
+IR_SY,Syria,Iran,202,202,Engage in mass killings,Engage in mass killings,28,17,45,-170.0,39,18,39,-70.10280418395996
+FR_SY,France,Syria,202,202,Engage in mass killings,Engage in mass killings,21,17,38,-170.0,64,17,64,-111.39087390899658
+KE_SO,Somalia,Kenya,202,202,Engage in mass killings,Engage in mass killings,19,17,36,-170.0,127,17,127,-100.92579257488251
+CH_JA,Japan,China,202,202,Engage in mass killings,Engage in mass killings,31,16,47,-160.0,64,29,64,-88.39233057200909
+FR_IZ,France,Iraq,202,202,Engage in mass killings,Engage in mass killings,7,16,23,-160.0,26,16,26,-115.93108177185059
+BG_BM,Bangladesh,Myanmar,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,24,15,39,-150.0,204,47,204,-81.27472805976868
+SA_SY,Syria,Saudi Arabia,202,202,Engage in mass killings,Engage in mass killings,23,15,38,-150.0,95,20,95,-128.33280849456787
+IS_SY,Israel,Syria,203,202,Engage in ethnic cleansing,Engage in mass killings,8,15,23,-150.0,51,16,51,-51.13117575645447
+BM_MY,Myanmar,Malaysia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,3,15,18,-150.0,117,22,117,-89.24734258651733
+FR_UK,France,United Kingdom,202,202,Engage in mass killings,Engage in mass killings,18,14,32,-140.0,39,14,39,-89.67810392379761
+EI_UK,Ireland,United Kingdom,202,202,Engage in mass killings,Engage in mass killings,5,14,19,-140.0,42,23,42,-32.14892739057541
+LY_US,Libya,United States,202,202,Engage in mass killings,Engage in mass killings,4,14,18,-140.0,51,32,51,-53.570228815078735
+AM_US,United States,Armenia,202,202,Engage in mass killings,Engage in mass killings,4,14,18,-140.0,177,14,177,-59.01133680343628
+IN_UK,India,United Kingdom,202,202,Engage in mass killings,Engage in mass killings,3,14,17,-140.0,29,20,29,-73.03392362594604
+IN_PK,India,Pakistan,202,202,Engage in mass killings,Engage in mass killings,23,13,36,-130.0,35,16,35,-57.70226377248764
+FR_IS,France,Israel,203,202,Engage in ethnic cleansing,Engage in mass killings,10,13,23,-130.0,87,19,87,-69.8304191827774
+GM_IS,Germany,Israel,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,7,13,20,-130.0,41,13,41,-55.79564392566681
+AG_FR,France,Algeria,202,202,Engage in mass killings,Engage in mass killings,7,13,20,-130.0,69,13,69,-57.24599742889404
+IS_IZ,Israel,Iraq,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,6,13,19,-130.0,37,15,37,-34.59874486923218
+GM_SY,Syria,Germany,203,202,Engage in ethnic cleansing,Engage in mass killings,1,13,14,-130.0,50,25,50,-78.10153150558472
+RP_US,United States,Philippines,202,202,Engage in mass killings,Engage in mass killings,12,12,24,-120.0,39,12,39,-39.42430692911148
+GM_TU,Germany,Turkey,202,203,Engage in mass killings,Engage in ethnic cleansing,9,12,21,-120.0,38,12,38,-58.368648529052734
+RS_TU,Russia,Turkey,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,8,12,20,-120.0,38,12,38,-36.220309689641
+ET_SO,Ethiopia,Somalia,202,202,Engage in mass killings,Engage in mass killings,7,12,19,-120.0,58,15,58,-69.33239912986755
+GM_US,United States,Germany,203,202,Engage in ethnic cleansing,Engage in mass killings,6,12,18,-120.0,27,12,27,-42.33264183998108
+TS_UK,United Kingdom,Tunisia,202,202,Engage in mass killings,Engage in mass killings,6,12,18,-120.0,1264,272,1260,-44.74470143020153
+IZ_TU,Turkey,Iraq,202,202,Engage in mass killings,Engage in mass killings,8,11,19,-110.0,52,14,52,-60.62490177154541
+EG_IS,Israel,Egypt,202,202,Engage in mass killings,Engage in mass killings,3,11,14,-110.0,80,17,80,-53.18974685668945
+MY_TH,Thailand,Malaysia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,2,11,13,-110.0,113,47,112,-77.07315874099731
+MX_US,Mexico,United States,202,202,Engage in mass killings,Engage in mass killings,13,10,23,-100.0,38,10,38,-9.288127660751343
+US_VM,United States,Vietnam,202,202,Engage in mass killings,Engage in mass killings,12,10,22,-100.0,60,12,60,-41.35704779624939
+FR_GM,Germany,France,202,202,Engage in mass killings,Engage in mass killings,11,10,21,-100.0,38,17,38,-33.85081923007965
+FR_RS,Russia,France,202,202,Engage in mass killings,Engage in mass killings,4,10,14,-100.0,279,40,279,-51.71655488014221
+IN_US,India,United States,203,202,Engage in ethnic cleansing,Engage in mass killings,2,10,12,-100.0,37,10,37,-64.74974632263184
+TU_US,United States,Turkey,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,9,9,18,-90.0,60,28,60,-54.687129735946655
+LE_SY,Lebanon,Syria,202,202,Engage in mass killings,Engage in mass killings,9,9,18,-90.0,52,9,51,-45.04458999633789
+BG_PK,Bangladesh,Pakistan,202,203,Engage in mass killings,Engage in ethnic cleansing,5,9,14,-90.0,246,48,246,-33.83866620063782
+GM_WA,Germany,Namibia,202,202,Engage in mass killings,Engage in mass killings,5,9,14,-90.0,38,9,38,-66.68559503555298
+SY_YM,Syria,Yemen,202,202,Engage in mass killings,Engage in mass killings,5,9,14,-90.0,69,9,69,-49.055843368172646
+CH_US,China,United States,201,202,Engage in mass expulsion,Engage in mass killings,5,9,14,-90.0,30,9,30,-9.465369462966919
+AS_US,Australia,United States,202,202,Engage in mass killings,Engage in mass killings,34,8,42,-80.0,41,11,37,-15.152062803506851
+IR_SA,Saudi Arabia,Iran,202,202,Engage in mass killings,Engage in mass killings,12,8,20,-80.0,20,8,20,-48.49088191986084
+AF_IZ,Iraq,Afghanistan,202,202,Engage in mass killings,Engage in mass killings,9,8,17,-80.0,57,8,57,-40.83413600921631
+GR_TU,Greece,Turkey,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,5,8,13,-80.0,45,8,45,-31.15534108877182
+IZ_UK,United Kingdom,Iraq,202,202,Engage in mass killings,Engage in mass killings,5,8,13,-80.0,24,8,24,-39.781290769577026
+GT_US,United States,Guatemala,202,202,Engage in mass killings,Engage in mass killings,4,8,12,-80.0,26,9,26,-72.89557313919067
+GZ_IS,Israel,Gaza Strip,202,202,Engage in mass killings,Engage in mass killings,3,8,11,-80.0,24,8,24,-27.7723670899868
+ID_MY,Malaysia,Indonesia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,1,8,9,-80.0,44,17,44,-37.13770341873169
+CA_US,United States,Canada,202,202,Engage in mass killings,Engage in mass killings,14,7,21,-70.0,41,9,41,-38.218289256095886
+IS_JO,Jordan,Israel,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,11,7,18,-70.0,25,10,25,-25.210188627243042
+PL_UP,Ukraine,Poland,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,10,7,17,-70.0,44,7,44,-28.36634373664856
+IR_US,United States,Iran,203,202,Engage in ethnic cleansing,Engage in mass killings,8,7,15,-70.0,32,7,32,-40.64126110076904
+BG_MY,Bangladesh,Malaysia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,7,7,14,-70.0,41,8,41,-41.4628803730011
+OD_SU,South Sudan,Sudan,202,203,Engage in mass killings,Engage in ethnic cleansing,5,7,12,-70.0,23,7,23,-25.93356966972351
+IS_TU,Israel,Turkey,202,202,Engage in mass killings,Engage in mass killings,4,7,11,-70.0,15,10,15,-30.932796955108643
+FR_TU,France,Turkey,202,202,Engage in mass killings,Engage in mass killings,4,7,11,-70.0,34,8,34,-39.26255548000336
+LE_US,Lebanon,United States,202,202,Engage in mass killings,Engage in mass killings,4,7,11,-70.0,24,11,24,-27.314165115356445
+IR_TU,Turkey,Iran,202,202,Engage in mass killings,Engage in mass killings,4,7,11,-70.0,34,12,34,-49.48867607116699
+AM_RS,Russia,Armenia,202,203,Engage in mass killings,Engage in ethnic cleansing,3,7,10,-70.0,26,10,26,-38.41883993148804
+BO_IS,Israel,Belarus,202,203,Engage in mass killings,Engage in ethnic cleansing,2,7,9,-70.0,53,13,53,-22.38672971725464
+SP_US,Spain,United States,203,202,Engage in ethnic cleansing,Engage in mass killings,2,7,9,-70.0,126,54,126,-29.500021934509277
+IZ_SA,Saudi Arabia,Iraq,202,202,Engage in mass killings,Engage in mass killings,1,7,8,-70.0,28,7,28,-53.42046117782593
+CF_UG,"Congo, Republic of the",Uganda,202,202,Engage in mass killings,Engage in mass killings,5,6,11,-60.0,25,11,25,-62.690311431884766
+PK_UK,Pakistan,United Kingdom,202,202,Engage in mass killings,Engage in mass killings,6,6,12,-60.0,25,6,25,-25.930753767490387
+FR_IR,France,Iran,202,202,Engage in mass killings,Engage in mass killings,4,6,10,-60.0,8,6,8,-32.66877365112305
+HA_US,United States,Haiti,201,202,Engage in mass expulsion,Engage in mass killings,4,6,10,-60.0,16,16,16,-26.069448471069336
+JA_US,United States,Japan,202,202,Engage in mass killings,Engage in mass killings,10,6,16,-60.0,28,6,28,-23.446411967277527
+RW_SW,Rwanda,Sweden,202,202,Engage in mass killings,Engage in mass killings,7,6,13,-60.0,1037,297,1037,-73.00806713104248
+FR_RW,France,Rwanda,202,202,Engage in mass killings,Engage in mass killings,7,6,13,-60.0,26,6,26,-48.14797115325928
+BK_HR,Croatia,Bosnia and Herzegovina,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,2,6,8,-60.0,18,6,18,-33.457690089941025
+AJ_RS,Azerbaijan,Russia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,2,6,8,-60.0,23,6,23,-14.911628097295761
+CH_HK,Hong Kong,China,202,202,Engage in mass killings,Engage in mass killings,2,6,8,-60.0,17,7,17,-14.281971514225006
+AL_RI,Albania,Serbia,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,1,6,7,-60.0,28,6,28,-9.34918588399887
+FR_GR,France,Greece,202,202,Engage in mass killings,Engage in mass killings,1,6,7,-60.0,22,9,22,-32.92724800109863
+SY_TX,Syria,Turkmenistan,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,3,5,8,-50.0,17,5,17,-17.86363196372986
+BM_UK,United Kingdom,Myanmar,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,3,5,8,-50.0,9,5,9,-12.108985245227814
+HR_US,Croatia,United States,203,203,Engage in ethnic cleansing,Engage in ethnic cleansing,4,5,9,-50.0,10,5,10,8.389439463615417

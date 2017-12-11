@@ -1,0 +1,100 @@
+SY,Syrian Arab Republic,US,United States,073,075,763,1778,SY_US,2541
+RS,Serbia,SY,Syrian Arab Republic,072,072,1322,664,RS_SY,1986
+IS,Iceland,US,United States,071,071,821,1003,IS_US,1824
+CH,Switzerland,US,United States,071,071,691,770,CH_US,1461
+US,United States,CA,Canada,071,071,805,623,CA_US,1428
+CA,Canada,SY,Syrian Arab Republic,075,073,875,271,CA_SY,1146
+IT,Italy,LY,Libya,073,073,648,406,IT_LY,1054
+SY,Syrian Arab Republic,IR,"Iran, Islamic Republic of",072,072,324,723,IR_SY,1047
+US,United States,IR,"Iran, Islamic Republic of",071,071,494,466,IR_US,960
+GM,Gambia,GR,Greece,071,071,567,391,GM_GR,958
+US,United States,RS,Serbia,070,070,510,435,RS_US,945
+US,United States,FR,France,070,070,404,519,FR_US,923
+AF,Afghanistan,US,United States,072,072,453,456,AF_US,909
+MX,Mexico,US,United States,070,071,405,354,MX_US,759
+IS,Iceland,IR,"Iran, Islamic Republic of",071,071,340,393,IR_IS,733
+SA,Saudi Arabia,US,United States,071,071,343,382,SA_US,725
+SY,Syrian Arab Republic,GR,Greece,073,073,226,492,GR_SY,718
+SY,Syrian Arab Republic,JO,Jordan,073,073,130,481,JO_SY,611
+SY,Syrian Arab Republic,GM,Gambia,073,075,286,306,GM_SY,592
+SA,Saudi Arabia,PK,Pakistan,071,072,320,255,PK_SA,575
+AS,American Samoa,US,United States,071,071,293,279,AS_US,572
+US,United States,GM,Gambia,070,070,252,299,GM_US,551
+CU,Cuba,US,United States,070,075,267,272,CU_US,539
+SO,Somalia,KE,Kenya,072,072,112,421,KE_SO,533
+CD,"Congo, the Democratic Republic of the",CM,Cameroon,072,070,373,135,CD_CM,508
+GM,Gambia,FR,France,070,070,222,274,FR_GM,496
+CD,"Congo, the Democratic Republic of the",NI,Nicaragua,072,070,332,145,CD_NI,477
+GR,Greece,IT,Italy,073,073,195,277,GR_IT,472
+EG,Egypt,US,United States,070,070,231,228,EG_US,459
+AS,American Samoa,SY,Syrian Arab Republic,075,073,240,214,AS_SY,454
+PK,Pakistan,AF,Afghanistan,070,070,229,225,AF_PK,454
+PK,Pakistan,CH,Switzerland,071,071,171,281,CH_PK,452
+IT,Italy,US,United States,070,070,230,210,IT_US,440
+MY,Malaysia,ID,Indonesia,073,073,255,182,ID_MY,437
+FR,France,SY,Syrian Arab Republic,075,070,295,130,FR_SY,425
+IN,India,US,United States,071,071,199,221,IN_US,420
+FR,France,IS,Iceland,075,075,87,322,FR_IS,409
+PK,Pakistan,US,United States,071,070,177,229,PK_US,406
+NI,Nicaragua,CM,Cameroon,072,072,175,224,CM_NI,399
+AF,Afghanistan,IR,"Iran, Islamic Republic of",070,070,289,108,AF_IR,397
+SY,Syrian Arab Republic,SA,Saudi Arabia,071,071,154,238,SA_SY,392
+IN,India,NP,Nepal,073,073,204,185,IN_NP,389
+CH,Switzerland,RS,Serbia,071,071,197,186,CH_RS,383
+IS,Iceland,SY,Syrian Arab Republic,070,070,206,172,IS_SY,378
+CH,Switzerland,AS,American Samoa,071,071,213,164,AS_CH,377
+UG,Uganda,RW,Rwanda,070,070,21,337,RW_UG,358
+RS,Serbia,IR,"Iran, Islamic Republic of",072,072,227,122,IR_RS,349
+NI,Nicaragua,NG,Nigeria,070,072,99,243,NG_NI,342
+CH,Switzerland,IN,India,071,071,182,157,CH_IN,339
+NI,Nicaragua,US,United States,071,071,186,152,NI_US,338
+SA,Saudi Arabia,IR,"Iran, Islamic Republic of",071,071,150,177,IR_SA,327
+IN,India,PK,Pakistan,070,070,148,178,IN_PK,326
+CH,Switzerland,NP,Nepal,073,073,187,136,CH_NP,323
+US,United States,GR,Greece,071,071,169,146,GR_US,315
+TH,Thailand,MY,Malaysia,073,073,155,146,MY_TH,301
+NZ,New Zealand,AS,American Samoa,071,070,114,177,AS_NZ,291
+ID,Indonesia,BG,Bulgaria,073,073,151,140,BG_ID,291
+BE,Belgium,GR,Greece,071,071,161,119,BE_GR,280
+ET,Ethiopia,SO,Somalia,072,075,89,189,ET_SO,278
+HK,Hong Kong,CH,Switzerland,071,071,134,141,CH_HK,275
+JO,Jordan,US,United States,070,070,133,138,JO_US,271
+RS,Serbia,GR,Greece,071,071,153,109,GR_RS,262
+SA,Saudi Arabia,FR,France,071,071,110,148,FR_SA,258
+BG,Bulgaria,MY,Malaysia,073,073,84,163,BG_MY,247
+CA,Canada,FR,France,070,070,116,131,CA_FR,247
+ID,Indonesia,AS,American Samoa,070,070,123,115,AS_ID,238
+AU,Australia,HU,Hungary,073,073,110,127,AU_HU,237
+US,United States,SZ,Swaziland,070,071,104,131,SZ_US,235
+SA,Saudi Arabia,EG,Egypt,071,071,125,109,EG_SA,234
+NP,Nepal,US,United States,070,070,103,131,NP_US,234
+SA,Saudi Arabia,QA,Qatar,071,071,157,77,QA_SA,234
+GM,Gambia,HU,Hungary,075,073,87,143,GM_HU,230
+AS,American Samoa,CA,Canada,071,070,112,116,AS_CA,228
+SY,Syrian Arab Republic,IT,Italy,073,073,66,162,IT_SY,228
+IT,Italy,GM,Gambia,073,073,108,118,GM_IT,226
+FR,France,ML,Mali,072,072,147,78,FR_ML,225
+JE,Jersey,US,United States,071,070,114,110,JE_US,224
+ID,Indonesia,TH,Thailand,073,073,104,120,ID_TH,224
+MT,Malta,IT,Italy,073,073,67,153,IT_MT,220
+EG,Egypt,RS,Serbia,070,070,103,112,EG_RS,215
+IT,Italy,FR,France,073,070,87,127,FR_IT,214
+RS,Serbia,FR,France,071,071,132,80,FR_RS,212
+IS,Iceland,EG,Egypt,070,071,98,112,EG_IS,210
+CH,Switzerland,SN,Senegal,071,071,119,88,CH_SN,207
+KE,Kenya,CH,Switzerland,071,071,66,140,CH_KE,206
+NP,Nepal,IS,Iceland,073,073,90,115,IS_NP,205
+EG,Egypt,AE,United Arab Emirates,070,070,100,105,AE_EG,205
+FR,France,GR,Greece,071,073,127,76,FR_GR,203
+MY,Malaysia,CH,Switzerland,070,070,99,102,CH_MY,201
+RS,Serbia,AF,Afghanistan,072,072,123,78,AF_RS,201
+AU,Australia,GM,Gambia,073,073,110,87,AU_GM,197
+QA,Qatar,US,United States,071,071,89,108,QA_US,197
+GM,Gambia,RS,Serbia,070,070,87,109,GM_RS,196
+CH,Switzerland,TW,"Taiwan, Province of China",070,071,99,93,CH_TW,192
+SA,Saudi Arabia,RS,Serbia,071,071,96,92,RS_SA,188
+NL,Netherlands,US,United States,071,070,76,109,NL_US,185
+AE,United Arab Emirates,US,United States,070,070,106,77,AE_US,183
+BR,Brazil,US,United States,071,071,89,92,BR_US,181
+US,United States,NZ,New Zealand,070,070,89,91,NZ_US,180
+US,United States,NO,Norway,071,071,96,80,NO_US,176
