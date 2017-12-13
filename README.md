@@ -444,3 +444,12 @@ In 2015:
 |0.0|3365|3356|[Source](http://www.echonews.com.au/news/bangkok-bombing-police-release-sketch-cctv-suspect/2746755/)
 |-4.0|3180|3180|[Source](http://www.montereyherald.com/arts-and-entertainment/20150520/the-latest-on-rohingya-gambia-offers-to-resettle-migrants)
 |2.8|2852|2852|[Source](http://www.dailyliberal.com.au/story/3532618/travel-deals-cheap-flights-with-malaysia-airlines-year-end-super-specials-sale/) 
+
+In 2016:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|-2.0|5625|5625|[Source](http://www.seattletimes.com/nation-world/thais-vote-on-new-constitution-that-could-dilute-democracy/)  
+|4.0|5476|5476|[Source](http://www.thejakartapost.com/seasia/2016/10/14/thais-gripped-by-grief-after-beloved-kings-death-.html) 
+|2.8|4497|4173|[Source](http://m.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=11630822)
+|4.0|4104|4104|[Source](http://www.blacktownsun.com.au/story/3842066/last-fridge-rolls-off-the-line-at-electrolux-factory/?cs=1683) 
