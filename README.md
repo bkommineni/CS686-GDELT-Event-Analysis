@@ -221,26 +221,23 @@ In 2015:
 
 |GoldsteinScale|Num-Mentions|Num-Articles|Story|
 |---|---|---|---|
-|2.8|7358|7294|[Source](http://www.nbc-2.com/story/30347230/strong-earthquake-in-afghanistan-shakes-region)
-|1.9|7224|7160|[Source](http://www.nbc-2.com/story/30347230/strong-earthquake-in-afghanistan-shakes-region)
+|2.8|7358|7294|[Source](http://www.bbc.com/news/world-asia-34636269)
+|1.9|7224|7160|[Source](http://www.bbc.com/news/world-asia-34636269)
 |4|5944|5904|[Source](http://www.sify.com/news/rs-passes-private-member-s-bill-on-transgenders-a-first-in-45-years-news-national-peyvEqhdgeadd.html)
-|7|5000|4970|[Source](http://www.australianherald.com/index.php/sid/230513229)
 
 In 2016:
 
 |GoldsteinScale|Num-Mentions|Num-Articles|Story|
 |---|---|---|---|
-|1|7896|7896|[Source](http://www.irishsun.com/index.php/sid/245318745)
-|7|6792|6792|[Source](http://www.irishsun.com/index.php/sid/245318745)
+|1|7896|7896|[Source](https://www.infoworld.com/article/3045581/cloud-computing/why-microsoft-azure-is-king-of-the-hill.html)
+|7|6792|6792|[Source](https://www.infoworld.com/article/3045581/cloud-computing/why-microsoft-azure-is-king-of-the-hill.html)
 |0|6372|6336|[Source](http://www.1310news.com/2016/02/21/gunman-kills-6-at-apartment-complex-dealership-restaurant/)
-|4|4859|4438|[Source](http://aninews.in/newsdetail-NG5UZXFo/Mjc2OTQ1blRlcWg/exiled-baloch-leader-slams-pak-for-booking-fellow-leaders-supporting-pm-modi.html)
-|4|4859|4438|[Source](http://aninews.in/newsdetail-NG5UZXFo/Mjc2OTQ1blRlcWg/exiled-baloch-leader-slams-pak-for-booking-fellow-leaders-supporting-pm-modi.html)
+|4|4859|4438|[Source](https://www.ndtv.com/india-news/pak-files-case-against-baloch-leaders-for-supporting-pm-modis-independence-day-speech-1448774)
+|4|4859|4438|[Source](https://www.ndtv.com/india-news/pak-files-case-against-baloch-leaders-for-supporting-pm-modis-independence-day-speech-1448774)
 
 ## Aid relationship between countries
 
-All Event codes for analysis of different types of events are from documentation related to dataset:
-
-[Source](https://www.gdeltproject.org/data/documentation/CAMEO.Manual.1.1b3.pdf)
+All Event codes for analysis of different types of events are from [documentation](https://www.gdeltproject.org/data/documentation/CAMEO.Manual.1.1b3.pdf) related to dataset:
 
 To do this analysis, we have filtered all the records with events related to aid based on EventRootCode which is "17" for all types of aids in that category and grouped by Actor1CountryCode , Actor2CountryCode and EventBaseCode.To get mutual relation between two countries created a copy of same values and did a join using Actor1CountryCode, Actor2CountryCode.And then by filtering relations within same country and sorting based on numMentions, listed the countries which are highly related in terms of aids.
 
@@ -368,10 +365,11 @@ Statistics related to NumEvents, GoldsteinScale, AvgTone and NumMentions related
 
 ![alt tag](./dev-bkommineni/images/MassDestrn-btwn-countries-2016.png)
 
-## Top States affecting stability of United States and events related to it
+## Top States affecting stability of Countries and events related to it
 
 For this analysis, we have filtered records belonging to particular country and extract state where the particular event happened.Grouped the records based on state and event, ordered them in increasing order of Goldsteinscale to get states which affected stability of country. (More negative the Goldsteinscale value is more it affects the stability of country negatively)
 
+For United States:
 In 2015:
 
 |State|Event affecting stability of country|GoldsteinScale Value|
@@ -399,3 +397,32 @@ In 2016:
 Statistics related to GoldsteinScale to same are shown in figure below:
 
 ![alt tag](./dev-bkommineni/images/States-Stability-US-2016.png)
+
+For India:
+In 2015:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|Delhi|All the events that are related to fight|-193120|
+|Maharashtra|All the events that are related to fight|-182993|
+|Delhi|Coerce related news(Eg: impose curfew,destroy property etc.)|-119239.3|
+|Jammu and Kashmir|All the events that are related to fight|-111973|
+|Uttar Pradesh|All the events that are related to fight|-109524.5|
+
+Statistics related to GoldsteinScale to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/States-Stability-IN-2015.png)
+
+In 2016:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|Delhi|All the events that are related to fight|-280559|
+|Jammu and Kashmir|All the events that are related to fight|-250595.5|
+|Maharashtra|All the events that are related to fight|-216230|
+|Delhi|Coerce related news(Eg: impose curfew,destroy property etc.)|-164026.9|
+|Uttar Pradesh|All the events that are related to fight|-134325.5|
+
+Statistics related to GoldsteinScale to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
