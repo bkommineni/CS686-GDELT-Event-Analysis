@@ -116,8 +116,7 @@ Event associated with maximum number of mentions will be considered as top event
 
 |Number of mentions|Date|Event location|Event description|Source|
 |---|---|---|---|---|
-|28010|Saturday, April 25, 2015|Durango, Colorado|Homeless fight for their rights|[Source]
-(https://durangoherald.com/articles/89461-homeless-fight-for-their-rights#slide=0)|
+|28010|Saturday, April 25, 2015|Durango, Colorado|Homeless fight for their rights|[Source](https://durangoherald.com/articles/89461-homeless-fight-for-their-rights#slide=0)|
 
 
 
