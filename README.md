@@ -114,6 +114,7 @@ We played the role of the professor a little bit and imagined a couple of questi
 In 2015 most of the stories which has maximum mentions falls under event code 010(Make statement, not specificed below) with total number of mentions 81,576,113.
 It includes events like 'All public statements expressed verbally or in action not otherwise specified'.
 Example- 
+
 |News|Country|Date|Source|
 |---|---|---|---|
 |BJP links Gandhis to tainted company|India|Oct 23, 2015|[Source](https://timesofindia.indiatimes.com/india/BJP-links-Gandhis-to-tainted-company/articleshow/49498732.cms)|
