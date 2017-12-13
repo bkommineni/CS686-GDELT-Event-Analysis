@@ -109,10 +109,9 @@ And then there are the numeric ones:
 # Analysis
 
 We played the role of the professor a little bit and imagined a couple of questions:
-## Top Event in 2015
+## Top Story in 2015
 Here, we consider number of views (NumMentions) and event associated with it.
 Event associated with maximum number of mentions will be considered as top event.
-
 
 |Number of mentions|Date|Event location|Event description|Source|
 |---|---|---|---|---|
