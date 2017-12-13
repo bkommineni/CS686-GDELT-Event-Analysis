@@ -111,7 +111,7 @@ And then there are the numeric ones:
 We played the role of the professor a little bit and imagined a couple of questions:
 
 ## Top Event code in 2015
-In 2015 most of the stories which has maximum mentions falls under event code 010(Make statement, not specificed below) with total number of mentions 81,576,113.
+In 2015 most of the stories which has maximum mentions fall under event code 010 **(Make statement, not specificed below)** with **total number of mentions 81,576,113.**
 It includes events like 'All public statements expressed verbally or in action not otherwise specified'.
 Example- 
 
