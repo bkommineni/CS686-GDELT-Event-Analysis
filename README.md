@@ -115,6 +115,7 @@ In 2015 most of the stories which has maximum mentions falls under event code 01
 It includes events like 'All public statements expressed verbally or in action not otherwise specified'.
 Example- 
 |News|Country|Date|Source|
+|---|---|---|---|
 |BJP links Gandhis to tainted company|India|Oct 23, 2015|[Source](https://timesofindia.indiatimes.com/india/BJP-links-Gandhis-to-tainted-company/articleshow/49498732.cms)|
 |Chanel Partners With Tribeca Festival for Women's Film Program|US|October 22, 2015,|[Source](https://www.bloomberg.com/news/articles/2015-10-22/chanel-partners-with-tribeca-festival-for-women-s-film-program)|
 |Thailand police seize meth tablets worth B45m|Thailand|October 21, 2015|[Source](http://www.customstoday.com.pk/thailand-police-seize-meth-tablets-worth-b45m/)|
