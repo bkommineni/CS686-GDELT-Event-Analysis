@@ -198,21 +198,43 @@ In 2015:
 
 |GoldsteinScale|Num-Mentions|Num-Articles|Story|
 |---|---|---|---|
--10|31182|11840|[Source](http://www.sfgate.com/nation/article/Colorado-movie-theater-shooting-victims-brace-for-6225228.php)
--10|29730|7579|[Source](http://abcnews.go.com/US/meet-james-holmes-trial-jurors/story?id=30596586)
-0|28010|10915|[Source](http://durangoherald.com/article/20150425/NEWS01/150429702/0/NEWS01/Homeless-fight-for-their-rights)
-2.8|22453|4929|[Source](http://www.news.com.au/world/north-america/a-train-headed-for-new-york-has-crashed-and-derailed-in-philadelphia/story-fnh81jut-1227353314298)
--2|22372|7211|[Source](http://www.nebraska.tv/story/30651628/the-latest-center-official-hasnt-heard-from-many-workers)
+|-10|31182|11840|[Source](http://www.sfgate.com/nation/article/Colorado-movie-theater-shooting-victims-brace-for-6225228.php)
+|-10|29730|7579|[Source](http://abcnews.go.com/US/meet-james-holmes-trial-jurors/story?id=30596586)
+|0|28010|10915|[Source](http://durangoherald.com/article/20150425/NEWS01/150429702/0/NEWS01/Homeless-fight-for-their-rights)
+|2.8|22453|4929|[Source](http://www.news.com.au/world/north-america/a-train-headed-for-new-york-has-crashed-and-derailed-in-philadelphia/story-fnh81jut-1227353314298)
 
 In 2016:
 
 |GoldsteinScale|Num-Mentions|Num-Articles|Story|
 |---|---|---|---|
-|-10|51231|6243|http://news.neoblack.com/pages/shots-fired-during-downtown-dallas-protests/
-|-10|39975|33706|http://www.980waav.com/news/orlando-nightclub-terror-attack-what-we-know/
-|-10|32864|29460|http://boingboing.net/tag/Alton-Sterling
-|-10|32325|29183|http://www.wfaa.com/features/are-cameras-impacting-how-police-officers-do-their-job/266679876
-|-10|26905|23541|http://kboi2.com/news/nation-world/sisters-brothers-friends-victims-who-we-lost-in-the-orlando-nightclub-shooting
+|-10|51231|6243|[Source](https://www.nbcdfw.com/news/local/Protests-in-Dallas-Over-Alton-Sterling-Death-385784431.html)
+|-10|39975|33706|[Source](http://www.cnn.com/2016/06/12/us/orlando-shooting-what-we-know/index.html)
+|-10|32864|29460|[Source](http://boingboing.net/tag/Alton-Sterling)
+|-10|32325|29183|[Source](http://www.wfaa.com/features/are-cameras-impacting-how-police-officers-do-their-job/266679876)
+|-10|26905|23541|[Source](http://kboi2.com/news/nation-world/sisters-brothers-friends-victims-who-we-lost-in-the-orlando-nightclub-shooting)
+
+## Top Stories of India
+
+For this analysis, we tried to sort all the records based on numMention attribute in decreasing order to get the top stories.
+
+In 2015:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|2.8|7358|7294|[Source](http://www.nbc-2.com/story/30347230/strong-earthquake-in-afghanistan-shakes-region)
+|1.9|7224|7160|[Source](http://www.nbc-2.com/story/30347230/strong-earthquake-in-afghanistan-shakes-region)
+|4|5944|5904|[Source](http://www.sify.com/news/rs-passes-private-member-s-bill-on-transgenders-a-first-in-45-years-news-national-peyvEqhdgeadd.html)
+|7|5000|4970|[Source](http://www.australianherald.com/index.php/sid/230513229)
+
+In 2016:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|1|7896|7896|[Source](http://www.irishsun.com/index.php/sid/245318745)
+|7|6792|6792|[Source](http://www.irishsun.com/index.php/sid/245318745)
+|0|6372|6336|[Source](http://www.1310news.com/2016/02/21/gunman-kills-6-at-apartment-complex-dealership-restaurant/)
+|4|4859|4438|[Source](http://aninews.in/newsdetail-NG5UZXFo/Mjc2OTQ1blRlcWg/exiled-baloch-leader-slams-pak-for-booking-fellow-leaders-supporting-pm-modi.html)
+|4|4859|4438|[Source](http://aninews.in/newsdetail-NG5UZXFo/Mjc2OTQ1blRlcWg/exiled-baloch-leader-slams-pak-for-booking-fellow-leaders-supporting-pm-modi.html)
 
 ## Aid relationship between countries
 
@@ -345,3 +367,35 @@ In 2016:
 Statistics related to NumEvents, GoldsteinScale, AvgTone and NumMentions related to same are shown in figure below:
 
 ![alt tag](./dev-bkommineni/images/MassDestrn-btwn-countries-2016.png)
+
+## Top States affecting stability of United States and events related to it
+
+For this analysis, we have filtered records belonging to particular country and extract state where the particular event happened.Grouped the records based on state and event, ordered them in increasing order of Goldsteinscale to get states which affected stability of country. (More negative the Goldsteinscale value is more it affects the stability of country negatively)
+
+In 2015:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|California|All the events that are related to fight|-974943|
+|District of Columbia|All the events that are related to fight|-935352.5|
+|Texas|All the events that are related to fight|-593123|
+|New York|All the events that are related to fight|-576250.5|
+|Illinois|All the events that are related to fight|-462968|
+
+Statistics related to GoldsteinScale to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/States-Stability-US-2015.png)
+
+In 2016:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|California|All the events that are related to fight|-1078547|
+|District of Columbia|All the events that are related to fight|-988905|
+|Texas|All the events that are related to fight|-775855.5|
+|New York|All the events that are related to fight|-642057|
+|Illinois|All the events that are related to fight|-559396|
+
+Statistics related to GoldsteinScale to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/States-Stability-US-2016.png)
