@@ -190,4 +190,18 @@ We repeat this process for the keyword "hillary", and we get a count of:
 I know what you are thinking: but Trump got elected November 8, 2016, so of course there's going to be more press coverage, but no, because he wasn't elected for 94 % of the period studied.
 It just seems like the media had more to say about that candidate compared to the other.
 
+## Aid relationship between countries
+
+GDELT Event database like explained above 
+
+In 2015, top pair of countries involved in providing different types of aid to each other are:
+
+|Country-1|Country-2|Type of Aid|
+|---|---|---|
+|Syrian Arab Republic|United States|Humanitarian aid, Grant Asylum|
+|Serbia|Syrian Arab Republic|Military Aid|
+|Iceland|United States|Economic Aid|
+|Switzerland|United States|Economic Aid|
+|United States|Canada|Economic Aid|
+
 # Final Report
