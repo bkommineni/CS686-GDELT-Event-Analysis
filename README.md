@@ -189,4 +189,3 @@ We repeat this process for the keyword "hillary", and we get a count of:
 I know what you are thinking: but Trump got elected November 8, 2016, so of course there's going to be more press coverage, but no, because he wasn't elected for 94 % of the period studied.
 It just seems like the media had more to say about that candidate compared to the other.
 
-## 2015 was the year of [The Dress](https://en.wikipedia.org/wiki/The_dress). Find out how that affected the stability of countries.
