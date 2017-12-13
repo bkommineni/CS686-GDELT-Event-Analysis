@@ -190,9 +190,37 @@ We repeat this process for the keyword "hillary", and we get a count of:
 I know what you are thinking: but Trump got elected November 8, 2016, so of course there's going to be more press coverage, but no, because he wasn't elected for 94 % of the period studied.
 It just seems like the media had more to say about that candidate compared to the other.
 
+## Top Stories of United States
+
+For this analysis, we tried to sort all the records based on numMention attribute in decreasing order to get the top stories.
+
+In 2015:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+-10|31182|11840|[Source](http://www.sfgate.com/nation/article/Colorado-movie-theater-shooting-victims-brace-for-6225228.php)
+-10|29730|7579|[Source](http://abcnews.go.com/US/meet-james-holmes-trial-jurors/story?id=30596586)
+0|28010|10915|[Source](http://durangoherald.com/article/20150425/NEWS01/150429702/0/NEWS01/Homeless-fight-for-their-rights)
+2.8|22453|4929|[Source](http://www.news.com.au/world/north-america/a-train-headed-for-new-york-has-crashed-and-derailed-in-philadelphia/story-fnh81jut-1227353314298)
+-2|22372|7211|[Source](http://www.nebraska.tv/story/30651628/the-latest-center-official-hasnt-heard-from-many-workers)
+
+In 2016:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|-10|51231|6243|http://news.neoblack.com/pages/shots-fired-during-downtown-dallas-protests/
+|-10|39975|33706|http://www.980waav.com/news/orlando-nightclub-terror-attack-what-we-know/
+|-10|32864|29460|http://boingboing.net/tag/Alton-Sterling
+|-10|32325|29183|http://www.wfaa.com/features/are-cameras-impacting-how-police-officers-do-their-job/266679876
+|-10|26905|23541|http://kboi2.com/news/nation-world/sisters-brothers-friends-victims-who-we-lost-in-the-orlando-nightclub-shooting
+
 ## Aid relationship between countries
 
-GDELT Event database like explained above 
+All Event codes for analysis of different types of events are from documentation related to dataset:
+
+[Source](https://www.gdeltproject.org/data/documentation/CAMEO.Manual.1.1b3.pdf)
+
+To do this analysis, we have filtered all the records with events related to aid based on EventRootCode which is "17" for all types of aids in that category and grouped by Actor1CountryCode , Actor2CountryCode and EventBaseCode.To get mutual relation between two countries created a copy of same values and did a join using Actor1CountryCode, Actor2CountryCode.And then by filtering relations within same country and sorting based on numMentions, listed the countries which are highly related in terms of aids.
 
 In 2015, top pair of countries involved in providing different types of aid to each other are:
 
@@ -204,4 +232,116 @@ In 2015, top pair of countries involved in providing different types of aid to e
 |Switzerland|United States|Economic Aid|
 |United States|Canada|Economic Aid|
 
-# Final Report
+Statistics related to numMentions and numArticles related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/Aid-relations-2015.png)
+
+In 2016, top pair of countries involved in providing different types of aid to each other are:
+
+|Country-1|Country-2|Type of Aid|
+|---|---|---|
+|Iceland|United States|Economic Aid|
+|Serbia|Syrian Arab Republic|Military Aid|
+|Syrian Arab Republic|United States|Aid, Grant Asylum|
+|Switzerland|United States|Economic Aid|
+|United States|Canada|Economic Aid|
+
+Statistics related to numMentions and numArticles related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/Aid-relations-2016.png)
+
+## Countries involved in Deportation
+
+To do this analysis, we have done something similar to aid analysis but with an EventRootCode "17" and for events specific to deportation, targeted events with EventBaseCode "174".
+
+In 2015, top pair of countries involved in the news of Deportation are:
+
+|Country-1|Country-2|Reason|
+|---|---|---|
+|Greece|Pakistan|Expel or deport individuals, Arrest (or) detain|
+|Fiji|New Zealand|Expel or deport individuals, Impose administrative sanctions|
+|Ecuador Venezuela|Bolivarian Republic of Croatia United States|Expel or deport individuals, Arrest (or) detain|
+|Djibouti|United Arab Emirates|Expel or deport individuals, Arrest (or) detain|
+|United Kingdom|Nicaragua|Expel or deport individuals, Arrest (or) detain|
+
+Statistics related to numMentions and numArticles related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/Deportation-relations-2015.png)
+
+In 2016, top pair of countries involved in the news of Deportation are:
+
+|Country-1|Country-2|Reason|
+|---|---|---|
+|Taiwan|Province of China Kenya|Expel or deport individuals|
+|Egypt|Cyprus|Expel or deport individuals, Arrest (or) detain|
+|Greece|Pakistan|Expel or deport individuals|
+|Rwanda|Netherlands|Expel or deport individuals|
+|Syrian Arab Republic|Uruguay|Expel or deport individuals, Arrest (or) detain|
+
+Statistics related to numMentions and numArticles related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/Deportation-relations-2016.png)
+
+## Analysis on how Mass Destruction affects stability of countries
+
+For this analysis, we have used EventRootCode attribute to filter all the events related to Mass Destruction with Code "20" and have used attribute goldsteinscale to determine the stability of country based on those events
+
+In 2015:
+
+During 2015, stability of follwing countries is impacted alot due to Mass Destruction which involves mass killings, mass expulsion, using weapons of mass destruction etc.
+
+|Country Code|Country Name|
+|---|---|
+|US|United States|
+|IS|Israel|
+|FR|France|
+|SY|Syria|
+|RW|Rwanda|
+
+Statistics related to GoldsteinScale, AvgTone and NumMentions related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/MassDestrn-Stability-2015.png)
+
+In 2016:
+
+|Country Code|Country Name|
+|---|---|
+|US|United States|
+|IS|Israel|
+|SY|Syria|
+|IZ|Iraq|
+|PK|Pakistan|
+
+Statistics related to GoldsteinScale, AvgTone and NumMentions related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/MassDestrn-Stability-2016.png)
+
+## Analysis on which pair of countries are involved in Mass destruction the most:
+
+In 2015:
+
+|Country 1|Country 2|Reason|
+|---|---|---|
+|France|United Kingdom|Engage in mass killings|
+|Rwanda|United Kingdom|Engage in mass killings|
+|Syria|Turkey|Engage in ethnic cleansing|
+|Somalia|Kenya|Engage in mass killings|
+|France|Congo|Engage in mass killings|
+
+Statistics related to NumEvents, GoldsteinScale, AvgTone and NumMentions related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/MassDestrn-btwn-countries-2015.png)
+
+In 2016:
+
+|Country 1|Country 2|Reason|
+|---|---|---|
+|Syria|Turkey|Engage in ethnic cleansing|
+|Israel|United States|Engage in ethnic cleansing|
+|Armenia|Azerbaijan|Engage in ethnic cleansing|
+|Russia|Syria|Engage in mass killings|
+|Israel|Lebanon|Engage in mass killings,Engage in ethnic cleansing|
+
+Statistics related to NumEvents, GoldsteinScale, AvgTone and NumMentions related to same are shown in figure below:
+
+![alt tag](./dev-bkommineni/images/MassDestrn-btwn-countries-2016.png)
