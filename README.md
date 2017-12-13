@@ -458,3 +458,23 @@ Statistics related to GoldsteinScale to same are shown in figure below:
 
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
 
+For Thailand:
+In 2015:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|Pattani|All the events that are related to fight|-6639.099992543459|
+|Narathiwat|All the events that are related to fight|-5763.899995304644|
+|Loei|All the events that are related to fight|-3216.39999371022|
+|Ang Thong|Coerce related news(Eg: impose curfew,destroy property etc.)|-2225.3999968469143|
+|Phangnga Pradesh|All the events that are related to fight|-1037.0000023022294|
+
+In 2016:
+
+|State|Event affecting stability of country|GoldsteinScale Value|
+|---|---|---|
+|Pattani|All the events that are related to fight|-6639.099992543459|
+|Narathiwat|All the events that are related to fight|-5763.899995304644|
+|Loei|All the events that are related to fight|-3216.39999371022|
+|Ang Thong|Coerce related news(Eg: impose curfew,destroy property etc.)|-2225.3999968469143|
+|Phangnga Pradesh|All the events that are related to fight|-1037.0000023022294|
