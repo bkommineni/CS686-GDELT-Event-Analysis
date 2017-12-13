@@ -464,7 +464,7 @@ In 2015:
 |State|Event affecting stability of country|GoldsteinScale Value|
 |---|---|---|
 |Loei|All the events that are related to fight|-9138.00000141561|
-|Narathiwat||All the events that are related to fight|-4949.7999966442585|
+|Narathiwat|All the events that are related to fight|-4949.7999966442585|
 |Pattani|All the events that are related to fight|-3243.7999983131886|
 |Surat Thani|Coerce related news(Eg: impose curfew,destroy property etc.)|-2309.4000106677413|
 |Nakhon Si Thammarat|All the events that are related to fight|-982.7999975681305|
