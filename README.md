@@ -433,3 +433,14 @@ In 2016:
 Statistics related to GoldsteinScale to same are shown in figure below:
 
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
+
+## Top Stories of Thailand
+
+In 2015:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|-5.0|3445|2136|[Source](http://www.canberratimes.com.au/world/police-arrest-suspect-over-bangkok-shrine-bombing-20150829-gjaraj.html)
+|0.0|3365|3356|[Source](http://www.echonews.com.au/news/bangkok-bombing-police-release-sketch-cctv-suspect/2746755/)
+|-4.0|3180|3180|[Source](http://www.montereyherald.com/arts-and-entertainment/20150520/the-latest-on-rohingya-gambia-offers-to-resettle-migrants)
+|2.8|2852|2852|[Source](http://www.dailyliberal.com.au/story/3532618/travel-deals-cheap-flights-with-malaysia-airlines-year-end-super-specials-sale/) 
