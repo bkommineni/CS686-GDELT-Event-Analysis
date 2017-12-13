@@ -112,6 +112,9 @@ We played the role of the professor a little bit and imagined a couple of questi
 ## Top Event in 2015
 Here, we consider number of views (NumMentions) and event associated with it.
 Event associated with maximum number of mentions will be considered as top event.
+|Number of mentions|Date|Event location|Event description|Source|
+|---|---|---|---|---|
+|28010|Saturday, April 25, 2015|Durango,Colorado|Homeless fight for their rights|[Source](https://durangoherald.com/articles/89461-homeless-fight-for-their-rights#slide=0)|
 
 ## What are the most discussed topics implicating both the United States and Switzerland?
 
