@@ -242,6 +242,27 @@ In 2016:
 |4|4859|4438|[Source](https://www.ndtv.com/india-news/pak-files-case-against-baloch-leaders-for-supporting-pm-modis-independence-day-speech-1448774)
 |4|4859|4438|[Source](https://www.ndtv.com/india-news/pak-files-case-against-baloch-leaders-for-supporting-pm-modis-independence-day-speech-1448774)
 
+## Top Stories of Thailand
+
+In 2015:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|-5.0|3445|2136|[Source](http://www.canberratimes.com.au/world/police-arrest-suspect-over-bangkok-shrine-bombing-20150829-gjaraj.html)
+|0.0|3365|3356|[Source](http://www.echonews.com.au/news/bangkok-bombing-police-release-sketch-cctv-suspect/2746755/)
+|-4.0|3180|3180|[Source](http://www.montereyherald.com/arts-and-entertainment/20150520/the-latest-on-rohingya-gambia-offers-to-resettle-migrants)
+|2.8|2852|2852|[Source](http://www.dailyliberal.com.au/story/3532618/travel-deals-cheap-flights-with-malaysia-airlines-year-end-super-specials-sale/) 
+
+In 2016:
+
+|GoldsteinScale|Num-Mentions|Num-Articles|Story|
+|---|---|---|---|
+|-2.0|5625|5625|[Source](http://www.seattletimes.com/nation-world/thais-vote-on-new-constitution-that-could-dilute-democracy/)  
+|4.0|5476|5476|[Source](http://www.thejakartapost.com/seasia/2016/10/14/thais-gripped-by-grief-after-beloved-kings-death-.html) 
+|2.8|4497|4173|[Source](http://m.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=11630822)
+|4.0|4104|4104|[Source](http://www.blacktownsun.com.au/story/3842066/last-fridge-rolls-off-the-line-at-electrolux-factory/?cs=1683) 
+
+
 ## Aid relationship between countries
 
 All Event codes for analysis of different types of events are from [documentation](https://www.gdeltproject.org/data/documentation/CAMEO.Manual.1.1b3.pdf) related to dataset:
@@ -434,22 +455,3 @@ Statistics related to GoldsteinScale to same are shown in figure below:
 
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
 
-## Top Stories of Thailand
-
-In 2015:
-
-|GoldsteinScale|Num-Mentions|Num-Articles|Story|
-|---|---|---|---|
-|-5.0|3445|2136|[Source](http://www.canberratimes.com.au/world/police-arrest-suspect-over-bangkok-shrine-bombing-20150829-gjaraj.html)
-|0.0|3365|3356|[Source](http://www.echonews.com.au/news/bangkok-bombing-police-release-sketch-cctv-suspect/2746755/)
-|-4.0|3180|3180|[Source](http://www.montereyherald.com/arts-and-entertainment/20150520/the-latest-on-rohingya-gambia-offers-to-resettle-migrants)
-|2.8|2852|2852|[Source](http://www.dailyliberal.com.au/story/3532618/travel-deals-cheap-flights-with-malaysia-airlines-year-end-super-specials-sale/) 
-
-In 2016:
-
-|GoldsteinScale|Num-Mentions|Num-Articles|Story|
-|---|---|---|---|
-|-2.0|5625|5625|[Source](http://www.seattletimes.com/nation-world/thais-vote-on-new-constitution-that-could-dilute-democracy/)  
-|4.0|5476|5476|[Source](http://www.thejakartapost.com/seasia/2016/10/14/thais-gripped-by-grief-after-beloved-kings-death-.html) 
-|2.8|4497|4173|[Source](http://m.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=11630822)
-|4.0|4104|4104|[Source](http://www.blacktownsun.com.au/story/3842066/last-fridge-rolls-off-the-line-at-electrolux-factory/?cs=1683) 
