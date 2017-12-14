@@ -459,6 +459,7 @@ Statistics related to GoldsteinScale to same are shown in figure below:
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
 
 For Thailand:
+
 In 2015: 
 
 |State|Event affecting stability of country|GoldsteinScale Value|
@@ -479,4 +480,4 @@ In 2016:
 |Ang Thong|All the events that are related to fight|-2225.3999968469143|
 |Phangnga|All the events that are related to fight|-1037.0000023022294|
 
-The biggest news in 2015 is about "Bangkok bombing" which happened in Bangkok, killing 20 people and injuring 125. For Narathiwat, Pattani, Surat Thani and Nakhon Si Thammarat are Thailand's southern provinces. South Thailand insurgency is an ongoing conflict centered in southern Thailand which is going on more than 10 years and no signs of ending.
+The biggest news in 2015 is about "Bangkok bombing" which happened in Bangkok, killing 20 people and injuring 125. For Narathiwat, Pattani, Surat Thani and Nakhon Si Thammarat are Thailand's southern provinces. South Thailand insurgency is an ongoing conflict centered in southern Thailand which is going on more than 10 years and no signs of ending. In 2016, A British woman has died and a British man is missing after a speedboat capsized off a popular tourist island in Thailand. Thai tourist police said 32 passengers and four crew were on board the Ang Thong Explorer boat which was travelling from Mu Ko Ang Thong National Park when it hit a "big wave" and capsized at around 5pm local time. In Phangnga has Refugee Camps for Rohingya, Myanmar Refugees. The camps got bigger and bigger until 2016 which the camps cound not take more Refugees but also could not deny them because they did not have any place to go.
