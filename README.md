@@ -459,6 +459,7 @@ Statistics related to GoldsteinScale to same are shown in figure below:
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
 
 For Thailand:
+
 In 2015: 
 
 |State|Event affecting stability of country|GoldsteinScale Value|
