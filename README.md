@@ -476,7 +476,7 @@ In 2016:
 |Pattani|All the events that are related to fight|-6639.099992543459|
 |Narathiwat|All the events that are related to fight|-5763.899995304644|
 |Bangkok|All the events that are related to fight|-3216.39999371022|
-|Ang Thong|All the events that are related to fight-2225.3999968469143|
+|Ang Thong|All the events that are related to fight|-2225.3999968469143|
 |Phangnga|All the events that are related to fight|-1037.0000023022294|
 
 The biggest news in 2015 is about "Bangkok bombing" which happened in Bangkok, killing 20 people and injuring 125. For Narathiwat, Pattani, Surat Thani and Nakhon Si Thammarat are Thailand's southern provinces. South Thailand insurgency is an ongoing conflict centered in southern Thailand which is going on more than 10 years and no signs of ending.
