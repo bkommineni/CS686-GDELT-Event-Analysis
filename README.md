@@ -459,14 +459,14 @@ Statistics related to GoldsteinScale to same are shown in figure below:
 ![alt tag](./dev-bkommineni/images/States-Stability-IN-2016.png)
 
 For Thailand:
-In 2015:
+In 2015: 
 
 |State|Event affecting stability of country|GoldsteinScale Value|
 |---|---|---|
-|Loei|All the events that are related to fight|-9138.00000141561|
+|Bangkok|All the events that are related to fight|-9138.00000141561|
 |Narathiwat|All the events that are related to fight|-4949.7999966442585|
 |Pattani|All the events that are related to fight|-3243.7999983131886|
-|Surat Thani|Coerce related news(Eg: impose curfew,destroy property etc.)|-2309.4000106677413|
+|Surat Thani|All the events that are related to fight|-2309.4000106677413|
 |Nakhon Si Thammarat|All the events that are related to fight|-982.7999975681305|
 
 In 2016:
@@ -475,6 +475,8 @@ In 2016:
 |---|---|---|
 |Pattani|All the events that are related to fight|-6639.099992543459|
 |Narathiwat|All the events that are related to fight|-5763.899995304644|
-|Loei|All the events that are related to fight|-3216.39999371022|
-|Ang Thong|Coerce related news(Eg: impose curfew,destroy property etc.)|-2225.3999968469143|
-|Phangnga Pradesh|All the events that are related to fight|-1037.0000023022294|
+|Bangkok|All the events that are related to fight|-3216.39999371022|
+|Ang Thong|All the events that are related to fight-2225.3999968469143|
+|Phangnga|All the events that are related to fight|-1037.0000023022294|
+
+The biggest news in 2015 is about "Bangkok bombing" which happened in Bangkok, killing 20 people and injuring 125. For Narathiwat, Pattani, Surat Thani and Nakhon Si Thammarat are Thailand's southern provinces. South Thailand insurgency is an ongoing conflict centered in southern Thailand which is going on more than 10 years and no signs of ending.
