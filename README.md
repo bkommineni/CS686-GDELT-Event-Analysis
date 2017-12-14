@@ -470,6 +470,10 @@ In 2015:
 |Surat Thani|All the events that are related to fight|-2309.4000106677413|
 |Nakhon Si Thammarat|All the events that are related to fight|-982.7999975681305|
 
+Statistics related to GoldsteinScale to same are shown in figure below:
+
+![alt tag](./dev-surada/image/2015.png)
+
 In 2016:
 
 |State|Event affecting stability of country|GoldsteinScale Value|
